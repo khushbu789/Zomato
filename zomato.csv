@@ -1,0 +1,766 @@
+name,locality,cuisines,cost,highlights,aggregate_rating,rating_text,votes,type
+Doon Darbar,Paltan Bazaar,"North Indian, Mughlai",500,"Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned, Digital Payments Accepted",4.3,Very Good,1364,Casual Dining
+Gaylord Xpress,Paltan Bazaar,Fast Food,200,"Cash, Lunch, No Alcohol Available, Credit Card, Dinner, Takeaway Available, Indoor Seating",3.8,Good,767,Quick Bites
+Uss Da Dhaba,Race Course,North Indian,350,"Lunch, Cash, No Alcohol Available, Dinner, Delivery, Breakfast, Indoor Seating, Pure Veg",4.2,Very Good,719,Dhaba
+Dominos Pizza,Rajpur,"Pizza, Fast Food",400,"No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Free Parking, Indoor Seating, Air Conditioned",3.9,Good,488,Quick Bites
+Mannu Fast Food,Raipur,"Fast Food, North Indian, Chinese",250,"Dinner, Cash, Delivery, Lunch, Takeaway Available, Outdoor Seating",4.6,Excellent,558,Quick Bites
+Chicago BR,Karanpur,"Rolls, Momos, North Indian, Fast Food, Pizza, Desserts",500,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Digital Payments Accepted",4.1,Very Good,364,Quick Bites
+Burger King,"Pacific Mall, Jakhan","Burger, Fast Food, Beverages",500,"Debit Card, Takeaway Available, Cash, Lunch, Mall Parking, No Alcohol Available, Credit Card, Dinner, Digital Payments Accepted, Indoor Seating, Air Conditioned, Axis Bank - Dining Delights",4.2,Very Good,380,Quick Bites
+Anandam,Hathibarkala Salwala,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",650,"Credit Card, Dinner, Cash, Lunch, Breakfast, Debit Card, Pure Veg, Air Conditioned, Indoor Seating",4.3,Very Good,426,Casual Dining
+Kalsang AMA Cafe,Hathibarkala Salwala,Cafe,750,"No Alcohol Available, Dinner, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Desserts and Bakes, Outdoor Seating, Air Conditioned, Wifi, Indoor Seating, Free Wifi",4.8,Excellent,915,Cafe
+Dominos Pizza,Majra,"Pizza, Fast Food",400,"Lunch, Delivery, Debit Card, No Alcohol Available, Dinner, Cash, Credit Card, Indoor Seating, Air Conditioned",3.9,Good,377,Quick Bites
+Dominos Pizza,Dharampur,"Pizza, Fast Food",400,"Lunch, Cash, Takeaway Available, Debit Card, No Alcohol Available, Dinner, Delivery, Credit Card, Indoor Seating, Digital Payments Accepted, Free Parking, Air Conditioned",3.6,Good,418,Quick Bites
+Punjab Grill,Jakhan,"Mughlai, North Indian",1250,"Cash, Takeaway Available, Delivery, Serves Alcohol, Debit Card, Dinner, Credit Card, Lunch, Air Conditioned, Free Wifi, Indoor Seating, Table booking recommended, Fullbar, Wheelchair Accessible, Free Parking, Smoking Area, Digital Payments Accepted, Live Sports Screening",4.7,Excellent,869,Casual Dining
+Kalsang Friends Corner,Hathibarkala Salwala,"Chinese, Thai, Tibetan, Momos",800,"Cash, Lunch, Dinner, No Alcohol Available, Takeaway Available, Credit Card, Debit Card, Outdoor Seating, Smoking Area, Indoor Seating, Air Conditioned, Live Sports Screening",4.4,Very Good,854,Casual Dining
+Tuhada Dhaba,Majra,North Indian,200,"No Alcohol Available, Dinner, Breakfast, Takeaway Available, Cash, Lunch, Indoor Seating",4,Very Good,324,Dhaba
+Chilliz,Dharampur,"Mughlai, North Indian, Chinese",500,"Lunch, Delivery, Credit Card, No Alcohol Available, Dinner, Cash, Takeaway Available, Indoor Seating, Air Conditioned",4,Very Good,329,Casual Dining
+Walk In Woods,Ballupur,"North Indian, Chinese, Mughlai, Pizza",500,"Lunch, Cash, Debit Card, Takeaway Available, Breakfast, No Alcohol Available, Dinner, Credit Card, Delivery, Air Conditioned, Smoking Area, Live Sports Screening, Table booking recommended, Free Parking, Indoor Seating, Kid Friendly, All Day Breakfast, Group Meal",4.1,Very Good,347,Casual Dining
+Walk In Woods,Chironwali,"North Indian, Pizza, Chinese, Mughlai",700,"Dinner, Delivery, Credit Card, Lunch, Takeaway Available, Outdoor Seating, Air Conditioned, Table booking recommended, Wifi",4.3,Very Good,457,Casual Dining
+Dominos Pizza,"Pacific Mall, Jakhan","Pizza, Fast Food",400,"Lunch, Delivery, Credit Card, Mall Parking, No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned, Digital Payments Accepted",4.1,Very Good,301,Quick Bites
+Singh Darbar,Karanpur,North Indian,150,"Credit Card, Delivery, Breakfast, Lunch, Cash, Debit Card, Takeaway Available, No Alcohol Available, Dinner, Indoor Seating",3.4,Average,296,Quick Bites
+Cafe De Piccolo,Rajpur,"Cafe, Italian",400,"Credit Card, Takeaway Available, Breakfast, No Alcohol Available, Cash, Lunch, Free Parking, Indoor Seating, Table booking recommended",4.4,Very Good,422,Cafe
+Orchard,Rajpur,"Chinese, Tibetan, Thai, Momos",800,"Cash, Debit Card, Dinner, Credit Card, Lunch, Takeaway Available, Free Parking, Live Music, Free Wifi, Table Reservation Not Required, Outdoor Seating, Wifi",4.6,Excellent,788,Casual Dining
+70 Percent Restro Cafe,Ballupur,"Cafe, Italian, Continental, Healthy Food, Momos",600,"Cash, Debit Card, Lunch, Credit Card, Dinner, Takeaway Available, Private Dining Area Available, Table booking recommended, Board Games, Free Parking, Keto Options, Indoor Seating, All Day Breakfast, Desserts and Bakes, Air Conditioned, Kid Friendly, Live Sports Screening, Sports TV, Vegan Options, Outdoor Seating, Digital Payments Accepted, Brunch, Catering Available, Available for Functions",4.5,Excellent,380,Cafe
+Barbeque Nation,Hathibarkala Salwala,"North Indian, Mediterranean, BBQ, Chinese",1200,"Dinner, Cash, Takeaway Available, Lunch, Credit Card, Debit Card, Indoor Seating, Buffet, Free Parking, Table booking recommended, Air Conditioned",4.9,Excellent,721,Casual Dining
+Dominos Pizza,Balliwala,"Pizza, Fast Food",400,"No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Free Parking, Indoor Seating, Air Conditioned",3.9,Good,381,Quick Bites
+The Great Indian Pub,Jakhan,"North Indian, Italian, Finger Food",1200,"Takeaway Available, Serves Alcohol, Credit Card, Cash, Delivery, Lunch, Dinner, Debit Card, Indoor Seating, Wifi, Fullbar, Free Parking, Wheelchair Accessible, Free Wifi, Outdoor Seating, Nightlife, Air Conditioned, Live Sports Screening, Live Music, Table reservation required, Live Entertainment, Digital Payments Accepted, Above 18 Only, Karaoke",4.4,Very Good,360,Casual Dining
+KC Soup Bar,Jakhan,"Fast Food, Chinese, Tibetan, Momos",250,"Cash, No Alcohol Available, Debit Card, Delivery, Lunch, Takeaway Available, Dinner, Credit Card, Outdoor Seating, Indoor Seating, Digital Payments Accepted, Free Parking",4,Very Good,287,Dhaba
+Elloras Melting Moments,Chukkuwala,"Desserts, Bakery, Fast Food",250,"Cash, Takeaway Available, Debit Card, No Alcohol Available, Delivery, Credit Card, Free Parking, Pre-Ordering Required, Digital Payments Accepted, Indoor Seating, Air Conditioned, Desserts and Bakes",4.3,Very Good,333,Bakery
+Jalapenos,Malsi,"Cafe, Mexican",500,"Cash, Breakfast, Dinner, Takeaway Available, Lunch, No Alcohol Available, Free Parking, Table Reservation Not Required, Indoor Seating, Digital Payments Accepted, Smoking Area",4.5,Excellent,379,Cafe
+Uncle M Hungry,Jakhan,"North Indian, Biryani, Fast Food, Chinese, Momos, Continental",550,"No Alcohol Available, Dinner, Cash, Delivery, Credit Card, Lunch, Takeaway Available, Debit Card, Outdoor Seating, Group Meal, Indoor Seating, Digital Payments Accepted, Wheelchair Accessible",4.1,Very Good,201,Casual Dining
+Nanys Bakery,Karanpur,"Bakery, Fast Food, Italian, Chinese, Momos",300,"Cash, Debit Card, Delivery, Breakfast, Lunch, Credit Card, Takeaway Available, Dinner, Indoor Seating, Digital Payments Accepted, Outdoor Seating, Air Conditioned, Desserts and Bakes",4.1,Very Good,152,Bakery
+Pizza Italia,Karanpur,"Pizza, Fast Food",350,"Lunch, Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Credit Card, Indoor Seating, Air Conditioned, Kid Friendly",3.8,Good,247,Quick Bites
+Angeethi Restaurant,Dharampur,"Fast Food, North Indian",200,"Takeaway Available, No Alcohol Available, Dinner, Lunch, Cash, Indoor Seating",4.1,Very Good,236,Quick Bites
+Pahalwan Paratha Dhabba,Prem Nagar,North Indian,400,"Dinner, Takeaway Available, Delivery, Lunch, Cash, Breakfast, Indoor Seating",4,Very Good,182,Dhaba
+Black Pepper Restaurant,Karanpur,"North Indian, Chinese, Continental",1000,"Delivery, Lunch, Debit Card, Dinner, Credit Card, Serves Alcohol, Cash, Indoor Seating, Fullbar, Table Reservation Not Required, Air Conditioned, Nightlife",4.1,Very Good,446,Casual Dining
+Mirabilia,Karanpur,"North Indian, South Indian, Continental",1200,"Debit Card, Cash, Takeaway Available, Serves Alcohol, Delivery, Dinner, Credit Card, Lunch, Table booking recommended, Air Conditioned, Fullbar, Indoor Seating, Outdoor Seating, Wifi",4.6,Excellent,306,Casual Dining
+Dunkin Donuts,"Pacific Mall, Jakhan","Cafe, Beverages, Burger, Desserts",600,"Delivery, Debit Card, No Alcohol Available, Dinner, Mall Parking, Cash, Credit Card, Lunch, Outdoor Seating, Digital Payments Accepted, Desserts and Bakes, Indoor Seating, Air Conditioned",4.2,Very Good,264,Quick Bites
+KFC,"Pacific Mall, Jakhan","Burger, Fast Food",450,"Cash, Credit Card, Delivery, Takeaway Available, Mall Parking, No Alcohol Available, Lunch, Dinner, Indoor Seating, Air Conditioned, Self Service",4.1,Very Good,243,Quick Bites
+Infamous Bistro & Bar,Jakhan,Cafe,500,"Cash, Dinner, Debit Card, Takeaway Available, Lunch, Credit Card, Indoor Seating, Fullbar",4.1,Very Good,286,Cafe
+Town Table Restaurant,Hathibarkala Salwala,"North Indian, Chinese, Continental",1800,"Lunch, Delivery, Serves Alcohol, Cash, Dinner, Credit Card, Debit Card, Indoor Seating, 4/5 Star, Table Reservation Not Required, Serves Cocktails, Luxury Dining, Air Conditioned, Fullbar",4.2,Very Good,322,Fine Dining
+First Gear Cafe,Malsi,"Cafe, Chinese",700,"Cash, Takeaway Available, Lunch, Credit Card, No Alcohol Available, Dinner, Debit Card, Outdoor Seating",4.2,Very Good,401,Cafe
+Super Donuts,Hathibarkala Salwala,"American, Fast Food, Desserts, Cafe, Italian, Sandwich, Wraps, Burger",400,"Cash, Dinner, Debit Card, Takeaway Available, Breakfast, Credit Card, Delivery, Desserts and Bakes, Digital Payments Accepted, Wifi, Air Conditioned, Indoor Seating, Free Wifi, Self Service",4.4,Very Good,258,Dessert Parlour
+Anandam,Ballupur,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",650,Cash,4.3,Very Good,196,Sweet Shop
+Cafe Village Highway,Balliwala,"Cafe, Indian, Italian",500,"Cash, Debit Card, Breakfast, Dinner, Takeaway Available, Credit Card, Lunch, Serves Alcohol, Outdoor Seating, Wine, Live Music, Indoor Seating, Digital Payments Accepted, Beer",4.1,Very Good,280,Cafe
+KFC,Hathibarkala Salwala,"Burger, Fast Food",450,"Takeaway Available, Cash, Lunch, No Alcohol Available, Credit Card, Debit Card, Dinner, Indoor Seating, Free Parking, Digital Payments Accepted, Air Conditioned",4,Very Good,224,Quick Bites
+The Buffet Snack Shop,Chukkuwala,Fast Food,100,"No Alcohol Available, Cash, Lunch, Takeaway Available, Dinner, Pure Veg, Outdoor Seating, Indoor Seating, Free Parking",4.5,Excellent,404,Bakery
+South Indian Vibes Restaurant,Karanpur,South Indian,600,"Takeaway Available, Dinner, Cash, No Alcohol Available, Breakfast, Delivery, Lunch, Indoor Seating, Air Conditioned, Table Reservation Not Required, Wifi, Pure Veg",4.3,Very Good,213,Casual Dining
+Mc Donalds,Karanpur,"Burger, Fast Food",500,"Lunch, Takeaway Available, Breakfast, Dinner, Cash, Credit Card, Debit Card, Kid Friendly, Indoor Seating, Air Conditioned",4.1,Very Good,373,Quick Bites
+Big Feast,Jakhan,"BBQ, North Indian, Chinese, Desserts",600,"Lunch, Cash, Delivery, Credit Card, No Alcohol Available, Dinner, Takeaway Available, Debit Card, Indoor Seating, Table booking recommended, Air Conditioned, Buffet, Group Meal, Digital Payments Accepted, Kid Friendly, Self Service, Brunch",4.2,Very Good,439,Casual Dining
+Udupi Cafe Bangalore Idli,Karanpur,South Indian,300,"Takeaway Available, Dinner, Lunch, No Alcohol Available, Cash, Breakfast, Delivery, Indoor Seating, Pure Veg, Free Parking, Digital Payments Accepted",4,Very Good,239,Quick Bites
+Eddies Patisserie,Khurbura,Bakery,350,"Takeaway Available, Cash, Outdoor Seating, Smoking Area, Digital Payments Accepted",4.3,Very Good,234,Bakery
+Nazims Kathi Roll,Jakhan,"Fast Food, Rolls",300,"Delivery, Lunch, Cash, Dinner, Takeaway Available, Indoor Seating, Digital Payments Accepted",4.2,Very Good,296,Casual Dining
+Countdown Fast Food,Karanpur,"North Indian, Chinese",500,"Lunch, Cash, No Alcohol Available, Dinner, Takeaway Available, Indoor Seating, Air Conditioned, Table Reservation Not Required",4.1,Very Good,271,Casual Dining
+KFC,Prem Nagar,Fast Food,450,"Lunch, Cash, Delivery, Credit Card, No Alcohol Available, Dinner, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned, Self Service",4.1,Very Good,181,Quick Bites
+Mussoorie Lights,Chukkuwala,"North Indian, Continental, Italian, Mexican, Afghan",1500,"Lunch, Serves Alcohol, Takeaway Available, Dinner, Cash, Delivery, Credit Card, Free Parking, Fullbar, Indoor Seating, Axis Bank - Dining Delights, Wifi, Live Entertainment, Outdoor Seating, Rooftop, Above 18 Only",4.1,Very Good,314,Casual Dining
+Tirupati Restaurant,Chukkuwala,"South Indian, North Indian, Chinese",600,"Delivery, Lunch, Takeaway Available, Breakfast, Cash, Dinner, Credit Card, Debit Card, Pure Veg, Air Conditioned, Indoor Seating, Digital Payments Accepted, Axis Bank - Dining Delights",4.1,Very Good,308,Casual Dining
+Anandpuri Restaurant,Hathibarkala Salwala,"North Indian, South Indian, Mishti, Desserts",400,"Dinner, Cash, Lunch, Delivery, Indoor Seating, Pure Veg, Table Reservation Not Required",4,Very Good,188,Sweet Shop
+Pizza Hut,Balliwala,Pizza,600,"Cash, Delivery, Takeaway Available, Dinner, Debit Card, Lunch, Credit Card, Indoor Seating, Air Conditioned, Digital Payments Accepted, Axis Bank - Dining Delights",3.7,Good,196,Casual Dining
+Bawarchi,Majra,"North Indian, Chinese, Pizza",800,"Dinner, Lunch, Cash, Air Conditioned, Outdoor Seating",4,Very Good,197,Casual Dining
+Waffles & Crepes,Karanpur,"Cafe, French, Desserts",300,"Lunch, Cash, Credit Card, No Alcohol Available, Dinner, Takeaway Available, Debit Card, Indoor Seating",4.2,Very Good,182,Cafe
+The Swings Cafe,Jakhan,"Continental, Chinese, Thai, Mexican",600,"Credit Card, Lunch, No Alcohol Available, Takeaway Available, Cash, Debit Card, Dinner, Delivery, Live Music, Outdoor Seating, Available for Functions, Wifi, Karaoke, Indoor Seating, Air Conditioned, Smoking Area",4.5,Excellent,136,Casual Dining
+TBistro,Karanpur,"North Indian, Chinese",550,"Cash, Lunch, Serves Alcohol, Breakfast, Dinner, Outdoor Seating, Smoking Area",4,Very Good,432,Quick Bites
+Subway,Race Course,"Fast Food, Healthy Food, Sandwich, Salad",500,"Takeaway Available, Lunch, Delivery, Dinner, Cash, Credit Card, Air Conditioned, Indoor Seating",4.1,Very Good,223,Quick Bites
+Just Cafe,Race Course,"Cafe, Fast Food",500,"Delivery, Dinner, Lunch, Cash, No Alcohol Available, Takeaway Available, Desserts and Bakes, Free Parking, City View, Table Reservation Not Required, Indoor Seating, Air Conditioned, Digital Payments Accepted",4,Very Good,207,Cafe
+Pizza Hut,Hathibarkala Salwala,Pizza,600,"Lunch, Credit Card, Dinner, Delivery, Indoor Seating, Air Conditioned, Table Reservation Not Required",3.6,Good,156,Casual Dining
+BakeMasters,Chukkuwala,"Fast Food, Desserts, Bakery",200,"Credit Card, Takeaway Available, Delivery, No Alcohol Available, Cash, Debit Card, Indoor Seating, Free Parking, Digital Payments Accepted, Pre-Ordering Required, Air Conditioned, Desserts and Bakes",4.3,Very Good,158,Bakery
+Patio Terrace,Karanpur,"North Indian, Italian, Continental, Chinese",900,"Takeaway Available, Credit Card, Lunch, Delivery, Cash, Debit Card, Breakfast, Dinner, Brunch, Kid Friendly, Free Parking, Indoor Seating, Digital Payments Accepted, Air Conditioned, Outdoor Seating, Rooftop",4.1,Very Good,167,Cafe
+Five Star Janta,Ballupur,"Fast Food, Mithai, Bakery",200,"No Alcohol Available, Dinner, Cash, Takeaway Available, Credit Card, Lunch, Debit Card, Free Parking, Desserts and Bakes, Indoor Seating, Table booking recommended, Wheelchair Accessible, Pure Veg",4,Very Good,147,Quick Bites
+CnD Bakers & Restaurant,Paltan Bazaar,Fast Food,250,"Lunch, Cash, Credit Card, Debit Card, No Alcohol Available, Takeaway Available, Breakfast, Indoor Seating, Air Conditioned",3.6,Good,186,Quick Bites
+Cafe Cibo,Race Course,"Cafe, Italian, Desserts",800,"Lunch, Dinner, Takeaway Available, No Alcohol Available, Debit Card, Cash, Credit Card, Desserts and Bakes, Outdoor Seating, Table Reservation Not Required, Free Wifi",3.9,Good,172,Cafe
+Pizza Live,Prem Nagar,"Pizza, Sandwich, Beverages",150,"Dinner, Cash, Debit Card, Lunch, Takeaway Available, Credit Card, Indoor Seating, Pure Veg, Digital Payments Accepted",4,Very Good,100,Quick Bites
+Best Buddys Restro Cafe,Karanpur,"Asian, North Indian, Street Food, Indian, Continental, Italian, Chinese",1200,"No Alcohol Available, Dinner, Delivery, Credit Card, Debit Card, Lunch, Cash, Takeaway Available, Live Sports Screening, Table booking recommended, Kid Friendly, Indoor Seating, Free Wifi, Air Conditioned, All Day Breakfast, Desserts and Bakes",4.3,Very Good,215,Casual Dining
+Old Elloras Bakers and Confectioners,Chukkuwala,"Desserts, Bakery",250,"Takeaway Available, No Seating Available, Cash, Desserts and Bakes, Pre-Ordering Required, Digital Payments Accepted, Air Conditioned",4,Very Good,165,Bakery
+Crave More,"Vikas Cinemall, Indira Nagar","Cafe, Continental, North Indian, Chinese",400,"Delivery, Lunch, Takeaway Available, Mall Parking, No Alcohol Available, Cash, Dinner, Outdoor Seating, Indoor Seating, Air Conditioned, Digital Payments Accepted",4,Very Good,171,Cafe
+Gulab Sweets & Restaurants,Jakhan,"Mithai, Fast Food, North Indian",200,"Credit Card, Delivery, Takeaway Available, Lunch, Breakfast, Debit Card, Dinner, No Alcohol Available, Cash, Air Conditioned, Indoor Seating, Table booking recommended, Desserts and Bakes",3.5,Good,110,Sweet Shop
+Cafe Marigold,Rajpur,"Cafe, Chinese, Fast Food",500,"Credit Card, Debit Card, Takeaway Available, Lunch, Cash, Dinner, No Alcohol Available, Breakfast, Outdoor Seating, Smoking Area, Table Reservation Not Required",4.2,Very Good,219,Cafe
+Aura Kitchen And Spirits,Kaonli,"North Indian, Continental, Thai",800,"Credit Card, Cash, Takeaway Available, Debit Card, Lunch, Dinner, Serves Alcohol, Wheelchair Accessible, Table Reservation Not Required, Air Conditioned, Axis Bank - Dining Delights, Smoking Area, Rooftop, Live Sports Screening, Indoor Seating",4.2,Very Good,206,Casual Dining
+Grille Restaurant,Jakhan,"North Indian, Chinese",1400,"Takeaway Available, Dinner, Cash, Debit Card, Credit Card, Serves Alcohol, Lunch, Smoking Area, Indoor Seating, Live Sports Screening, Rooftop, Fullbar, Air Conditioned, Buffet, Luxury Dining, Live Music, Above 18 Only, Nightlife",4,Very Good,234,Fine Dining
+Burger Singh - Big Punjabi Burgers,Balliwala,"Fast Food, Burger",300,"Lunch, Delivery, No Alcohol Available, Dinner, Cash, Takeaway Available, Indoor Seating, Digital Payments Accepted",3.9,Good,191,Quick Bites
+Y Cafe & Restaurant,Karanpur,Cafe,500,"Cash, Credit Card, Dinner, Takeaway Available, Lunch, No Alcohol Available, Debit Card, Indoor Seating, Desserts and Bakes, Air Conditioned, Table Reservation Not Required",3.9,Good,196,Cafe
+Bikanervala,Hathibarkala Salwala,"Street Food, Fast Food, South Indian, Mithai, Beverages",550,"No Alcohol Available, Dinner, Cash, Delivery, Breakfast, Lunch, Takeaway Available, Credit Card, Debit Card, Free Parking, Pure Veg, Indoor Seating, Air Conditioned, Self Service",3.7,Good,124,Quick Bites
+Kwik Bite Centre,Paltan Bazaar,"Chinese, South Indian, Fast Food",300,"Lunch, Takeaway Available, No Alcohol Available, Dinner, Cash, Indoor Seating, Air Conditioned",4,Very Good,291,Quick Bites
+Nathus Sweets,Ballupur,"Mithai, North Indian, South Indian, Fast Food",500,"Cash, Takeaway Available, Credit Card, Debit Card, No Alcohol Available, Dinner, Delivery, Breakfast, Lunch, Free Parking, Pure Veg, Desserts and Bakes, Indoor Seating, Air Conditioned",3.8,Good,191,Quick Bites
+Zaffran- Regenta LP Vilas,"Regenta LP Vilas, Prem Nagar","Continental, Chinese, Indian, Thai",1000,"Credit Card, Breakfast, Lunch, Cash, Debit Card, No Alcohol Available, Dinner, Indoor Seating",4.4,Very Good,109,Casual Dining
+Meet Me There,Krishna Nagar,Fast Food,350,"Delivery, Lunch, Takeaway Available, No Alcohol Available, Dinner, Cash, Indoor Seating, Air Conditioned",4,Very Good,113,Quick Bites
+The Punjabi Essence Restaurant,Chukkuwala,"South Indian, Chinese, North Indian",800,"Dinner, Takeaway Available, Delivery, Cash, Lunch, Debit Card, Credit Card, Air Conditioned, Axis Bank - Dining Delights, Indoor Seating",3.9,Good,221,Fine Dining
+Mago Veg & Non Veg Restaurant,Krishna Nagar,"North Indian, Biryani, Chinese, Beverages",600,"Dinner, Cash, Takeaway Available, Credit Card, Debit Card, Lunch, Delivery, Breakfast, Indoor Seating, Table booking recommended, Pure Veg",4,Very Good,152,Casual Dining
+Best Buddys Cafe,Malsi,"Cafe, Fast Food",500,"Debit Card, Takeaway Available, Lunch, Credit Card, Dinner, Breakfast, No Alcohol Available, Cash, Wifi, Table booking recommended, Indoor Seating, Outdoor Seating, Air Conditioned",4.2,Very Good,126,Cafe
+THC- Truckers Halt Cafe,Rajpur,"American, Burger, Fast Food",400,"Debit Card, Lunch, Takeaway Available, Credit Card, Dinner, Cash, Delivery, Outdoor Seating, Air Conditioned, Wifi, Indoor Seating",4,Very Good,122,Food Truck
+Riverstone Cottages,Malsi,North Indian,700,"Lunch, Serves Alcohol, Cash, Debit Card, Dinner, Credit Card, Smoking Area, Indoor Seating, Fullbar, Table booking recommended, Valet Parking Available, Air Conditioned",4.1,Very Good,127,Casual Dining
+Naveen Vegetarian,Paltan Bazaar,North Indian,550,"Dinner, Takeaway Available, Credit Card, Debit Card, Lunch, Cash, Indoor Seating, Table Reservation Not Required, Digital Payments Accepted, Pure Veg",3.8,Good,169,Casual Dining
+Tonic,Ballupur,"North Indian, Chinese",1000,"Cash, Takeaway Available, Debit Card, Lunch, Serves Alcohol, Credit Card, Dinner, Outdoor Seating, Smoking Area, Indoor Seating, Air Conditioned",3.9,Good,167,Casual Dining
+Aura Restaurant,Ballupur,"North Indian, Chinese, Italian",750,"Lunch, No Alcohol Available, Dinner, Cash, Credit Card, Indoor Seating, Table booking recommended, Wheelchair Accessible",3.5,Good,111,Casual Dining
+Asia Seven,Jakhan,"Chinese, Japanese, Thai, Seafood, Momos, Sushi",1100,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Indoor Seating, Table booking recommended, Free Wifi, Air Conditioned",4.1,Very Good,102,Fine Dining
+The Yellow Chilli,Hathibarkala Salwala,North Indian,1000,"Lunch, Cash, Takeaway Available, Credit Card, Debit Card, Dinner, Indoor Seating, Table Reservation Not Required",4.3,Very Good,235,Casual Dining
+Delhi Darbar,Majra,North Indian,600,"Dinner, Lunch, Cash, Air Conditioned, Indoor Seating",4,Very Good,195,Quick Bites
+Tuhada Dhaba,Chukkuwala,North Indian,250,"Dinner, Takeaway Available, Lunch, Cash, No Alcohol Available, Free Parking, Digital Payments Accepted, Indoor Seating, Pure Veg",3.9,Good,179,Quick Bites
+Naths Chinese,Hathibarkala Salwala,"Chinese, Momos",200,"Lunch, Cash, No Alcohol Available, Dinner, Takeaway Available, Outdoor Seating, Free Parking",3.9,Good,151,Quick Bites
+Standard Bakers Products,Rajpur,"Bakery, Fast Food, Desserts",200,"No Seating Available, Cash, Takeaway Available, Delivery, Digital Payments Accepted, Desserts and Bakes",4,Very Good,115,Bakery
+LOpéra Salon de Thé,Karanpur,"Bakery, Desserts, Fast Food, Cafe",1000,"Delivery, No Alcohol Available, Cash, Credit Card, Takeaway Available, Debit Card, Desserts and Bakes, Indoor Seating",4.2,Very Good,86,Dessert Parlour
+Brew Factory,Malsi,"Italian, Continental",1000,"Debit Card, Credit Card, Cash, Lunch, Dinner, Fullbar, Craft Beer, Axis Bank - Dining Delights",4,Very Good,165,Microbrewery
+Prez Restaurant,"Hotel President, Karanpur","North Indian, Chinese, Continental",2000,"Credit Card, Cash, Dinner, Delivery, Serves Alcohol, Lunch, Debit Card, Indoor Seating, Air Conditioned, Fullbar, Table Reservation Not Required",4,Very Good,163,Casual Dining
+Cafe Travertine,Subhash Nagar,"North Indian, Asian, Continental",2000,"No Alcohol Available, Credit Card, Breakfast, Dinner, Cash, Debit Card, Lunch, Indoor Seating, Serves Cocktails, Table Reservation Not Required, Fullbar, Desserts and Bakes",0,Not rated,0,Quick Bites
+Epicurean,"Ashok Spa & Resorts, Morowala","Mughlai, Asian, British",1800,"Cash, Debit Card, Takeaway Available, Lunch, Credit Card, No Alcohol Available, Dinner, Outdoor Seating, Indoor Seating, Table booking recommended, Poolside, Air Conditioned, Digital Payments Accepted",3.7,Good,23,Fine Dining
+Opal Lounge,Chukkuwala,"North Indian, Continental, Chinese",1600,"Credit Card, Debit Card, Takeaway Available, Cash, Serves Alcohol, Lunch, Dinner, Air Conditioned, Live Music, Indoor Seating, DJ, Axis Bank - Dining Delights, Above 18 Only, Nightlife, Fullbar, Digital Payments Accepted",3.7,Good,80,Casual Dining
+The Terrace - Four Points by Sheraton Dehradun,"Four Points by Sheraton, Jakhan","North Indian, Chinese, Italian",1500,"Serves Alcohol, Debit Card, Lunch, Dinner, Credit Card, Takeaway Available, Cash, Luxury Dining, Outdoor Seating, Fullbar, Valet Parking Available, 4/5 Star, Air Conditioned, Table booking recommended",3.8,Good,144,Fine Dining
+The Tavern Restaurant,"Crossroads Mall, Karanpur","North Indian, Chinese, Continental, Italian, Thai",1500,"Mall Parking, Delivery, Cash, Lunch, Dinner, Serves Alcohol, Takeaway Available, Credit Card, Debit Card, Air Conditioned, Above 18 Only, Indoor Seating, Valet Parking Available, Fullbar, Live Music, Wifi, Nightlife",3.9,Good,125,Casual Dining
+Garden Cress - Ramada Dehradun,Ramada Dehradun,"North Indian, South Indian, Chinese, Continental",1500,"Debit Card, Lunch, Takeaway Available, Dinner, Cash, Breakfast, Serves Alcohol, Credit Card, Indoor Seating, Table booking recommended, Outdoor Seating, Axis Bank - Dining Delights, Fullbar",4.1,Very Good,55,Fine Dining
+Qb Lounge Bar,Jakhan,"Mughlai, North Indian, Chinese",1500,"Lunch, Serves Alcohol, Credit Card, Dinner, Cash, Takeaway Available, Debit Card, DJ, Live Sports Screening, Valet Parking Available, Live Music, Digital Payments Accepted, Axis Bank - Dining Delights, Hookah, Free Parking, Nightlife, Fullbar, Indoor Seating, Above 18 Only, Air Conditioned",3.7,Good,95,Lounge
+Muse Restaurant,Chukkuwala,"North Indian, Chinese, Continental",1500,"Dinner, Lunch, Serves Alcohol, Credit Card, Takeaway Available, Luxury Dining, Indoor Seating, Table booking recommended, Valet Parking Available, Buffet, 4/5 Star",3.6,Good,44,Fine Dining
+Crust - Ramada Dehradun,Ramada Dehradun,Cafe,1500,"Lunch, Takeaway Available, Dinner, Breakfast, Credit Card, No Alcohol Available, Cash, Indoor Seating, Axis Bank - Dining Delights",3.8,Good,39,Cafe
+MJ Restaurant - MJ Residency,Race Course,"North Indian, Chinese, Continental",1500,"Dinner, Debit Card, Lunch, Serves Alcohol, Cash, Credit Card, Valet Parking Available, Indoor Seating, Air Conditioned, Luxury Dining, Fullbar",3.7,Good,31,Fine Dining
+Rico Red - Hotel JSR Continental,Dharampur,Finger Food,1500,"Takeaway Available, Credit Card, Lunch, Cash, Debit Card, Dinner, Indoor Seating, Air Conditioned, Nightlife, Above 18 Only, Smoking Area, Fullbar",0,Not rated,1,Quick Bites
+Beertales,Hathibarkala Salwala,"North Indian, Italian, Mexican, Thai",1400,"Delivery, Credit Card, Cash, Takeaway Available, Debit Card, Dinner, Free Parking, Indoor Seating, Fullbar, Smoking Area",3.7,Good,15,Pub
+Retro Pub,"The Solitaire, Dharampur",Finger Food,1300,"Credit Card, Lunch, Serves Alcohol, Dinner, Air Conditioned, Outdoor Seating, Wifi, Nightlife",3.3,Average,14,Bar
+G7 Fine Dine and Pub,Kaonli,"Chinese, Continental, North Indian, Mughlai",1200,"Cash, Debit Card, Lunch, Dinner, Credit Card, Delivery, Serves Alcohol, Nightlife, Wine, Fullbar, DJ, Free Parking, Above 18 Only, Hookah, Digital Payments Accepted, Indoor Seating, Beer, Serves Cocktails, Live Music, Air Conditioned, Gastro Pub",4.2,Very Good,61,Fine Dining
+Vatika Restaurant - Hotel Madhuban,"Hotel Madhuban, Hathibarkala Salwala","North Indian, Chinese, Continental",1200,"Credit Card, Dinner, Serves Alcohol, Lunch, Breakfast, Indoor Seating, 4/5 Star, Wifi, Fullbar, Luxury Dining, Air Conditioned, Serves Cocktails, Table booking recommended",4.7,Excellent,94,Fine Dining
+Katmans Kitchen & Bar,Jakhan,Finger Food,1200,"Takeaway Available, Credit Card, Lunch, Cash, Debit Card, Dinner, Above 18 Only, Fullbar, Nightlife, Outdoor Seating, DJ, Digital Payments Accepted, Indoor Seating, Air Conditioned, Free Parking, Live Music, Hookah",3.7,Good,78,Lounge
+Lords Of Barbecue,Jakhan,"North Indian, BBQ",1200,"Dinner, Cash, Credit Card, Debit Card, Lunch, Takeaway Available, Indoor Seating, Air Conditioned, Buffet",3.6,Good,34,Casual Dining
+0135 Pub & Kitchen,Rajpur,"Continental, North Indian, Chinese, Pizza, Grill",1200,"Takeaway Available, Cash, Debit Card, Dinner, Delivery, Credit Card, Lunch, Serves Alcohol, Fullbar, Air Conditioned, Indoor Seating",3.9,Good,36,Pub
+Ambrosia,Chukkuwala,"North Indian, Continental, Chinese",1200,"Lunch, Credit Card, Takeaway Available, Debit Card, Dinner, Cash, Air Conditioned, Nightlife, Above 18 Only, Digital Payments Accepted, Indoor Seating, Buffet, Fullbar, Axis Bank - Dining Delights",3.4,Average,60,Casual Dining
+The Urban Pendu Cafe,Subhash Nagar,Cafe,1200,"Dinner, Cash, Lunch, Takeaway Available, Debit Card, Indoor Seating, Brunch, Desserts and Bakes, Digital Payments Accepted",3.6,Good,49,Cafe
+Citrus Cafe - Lemon Tree Hotel,Jakhan,"North Indian, Continental",1200,"Lunch, Debit Card, Credit Card, Dinner, No Alcohol Available, Cash, Breakfast, Indoor Seating, 4/5 Star, Valet Parking Available, Air Conditioned, Luxury Dining",3.6,Good,19,Fine Dining
+White Horse - Ramada Dehradun,Ramada Dehradun,Drinks Only,1200,"Cash, Credit Card, Debit Card, Free Parking, Smoking Area, Indoor Seating, Serves Cocktails, Fullbar, Axis Bank - Dining Delights",3.7,Good,17,Bar
+Allen n Marlees - Ramada Dehradun,Ramada Dehradun,"Beverages, North Indian, Continental",1200,"Debit Card, Dinner, Credit Card, Lunch, Cash, Rooftop, Free Parking, Fullbar, Craft Beer, Indoor Seating, Table Reservation Not Required",3.4,Average,7,Microbrewery
+Alcove,Hathibarkala Salwala,"North Indian, Chinese, Continental, Mughlai",1200,"Lunch, Credit Card, Dinner, Debit Card, Serves Alcohol, Delivery, Cash, Indoor Seating, Air Conditioned, Wifi, Table Reservation Not Required",3.3,Average,8,Casual Dining
+Silver Palm Restaurant,Subhash Nagar,"Indian, Chinese, Continental",1200,"Dinner, No Alcohol Available, Lunch, Takeaway Available, Debit Card, Serves Alcohol, Credit Card, Cash, Indoor Seating, Air Conditioned, 4/5 Star, Luxury Dining, Wifi, Table Reservation Not Required",3,Average,5,Fine Dining
+Clever Fox Cafe,Rajpur,North Indian,1200,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",0,Not rated,3,Casual Dining
+Brigadiers Restro Bar By Vishranti,Prem Nagar,"North Indian, Continental",1200,"Delivery, Credit Card, Dinner, Takeaway Available, Debit Card, Lunch, Cash, Fullbar, Indoor Seating, Air Conditioned, Smoking Area, Wifi, Outdoor Seating, Digital Payments Accepted",0,Not rated,2,Casual Dining
+Frost- Hotel Saffron Leaf,Kaonli,"Continental, Chinese, North Indian",1200,"Lunch, Takeaway Available, Debit Card, Dinner, Cash, Credit Card, Fullbar, Axis Bank - Dining Delights, Indoor Seating",0,Not rated,3,Bar
+Dive N Dine,Paltan Bazaar,Cafe,1200,"Lunch, Credit Card, Debit Card, Dinner, Cash, Outdoor Seating, Poolside, Digital Payments Accepted, Beer, Serves Cocktails, Brunch, Axis Bank - Dining Delights",0,Not rated,3,Cafe
+Thee Heart,"Vikas Cinemall, Indira Nagar","North Indian, Chinese",1100,"Credit Card, Lunch, Dinner, Delivery, Serves Alcohol, Mall Parking, Air Conditioned, Indoor Seating, Fullbar, 4/5 Star, Luxury Dining",3.8,Good,156,Fine Dining
+The Pavilion,"Hotel President, Karanpur","North Indian, Continental, Chinese",1100,"Lunch, Credit Card, Serves Alcohol, Dinner, Indoor Seating, Air Conditioned, Wifi, Table Reservation Not Required",3.9,Good,39,Casual Dining
+The Clove Restaurant,Prem Nagar,Continental,1100,"Dinner, Breakfast, Lunch, Cash, Credit Card, Debit Card, Dance Floor, Fullbar, Wine Tasting, Serves Cocktails, Air Conditioned, Smoking Area, Pure Veg, Buffet, Sports TV, Outdoor Seating, Indoor Seating, Digital Payments Accepted, Wheelchair Accessible, Brunch",0,Not rated,0,Casual Dining
+Edens Grove,Rajpur,"Thai, Chinese, North Indian",1000,"Dinner, Cash, No Alcohol Available, Lunch, Delivery, Takeaway Available, Table booking recommended, Indoor Seating",4.5,Excellent,77,Casual Dining
+Bottle Kitchen & Co,Jakhan,"North Indian, Chinese, Continental, Mediterranean, Mexican",1000,"Dinner, Cash, Takeaway Available, Lunch, Credit Card, Fullbar, Indoor Seating, Live Music, Air Conditioned, Wifi",4.3,Very Good,97,Casual Dining
+Moti Mahal Restaurant,Race Course,"North Indian, Rajasthani",1000,"Dinner, Credit Card, Lunch, Delivery, Wifi, Axis Bank - Dining Delights, Indoor Seating, Air Conditioned",3.6,Good,118,Casual Dining
+Oxygin Lounge & Bistro,Hathibarkala Salwala,"North Indian, Chinese, Continental, Lebanese",1000,"Dinner, Delivery, Credit Card, Debit Card, Lunch, Cash, Takeaway Available, Free Parking, Live Entertainment, Indoor Seating, Air Conditioned, Gaming Area, Live Sports Screening, Table booking recommended, Brunch",3.7,Good,91,Casual Dining
+3 Pyramids,Hathibarkala Salwala,"Italian, Continental, Chinese",1000,"Credit Card, Dinner, Takeaway Available, Lunch, Serves Alcohol, Air Conditioned, Fullbar, Indoor Seating, Hookah",3.8,Good,112,Lounge
+Aangan Restaurant & Bar,Karanpur,"North Indian, Chinese",1000,"Lunch, Dinner, Serves Alcohol, Credit Card, Cash, Delivery, Debit Card, Indoor Seating, Axis Bank - Dining Delights, Air Conditioned, Fullbar",3.9,Good,96,Fine Dining
+Karma Lounge,Hathibarkala Salwala,"North Indian, Fast Food",1000,"Lunch, Debit Card, Delivery, Takeaway Available, Dinner, Cash, Credit Card, Outdoor Seating, Table Reservation Not Required, Indoor Seating, Live Music, Axis Bank - Dining Delights",3.7,Good,24,Casual Dining
+Barbeque Planet,Balliwala,"North Indian, Chinese, Coffee and Tea, Fast Food, Indian, Italian, Sandwich, Street Food",1000,"Credit Card, Lunch, Delivery, Cash, Debit Card, Dinner, Takeaway Available, DJ, Indoor Seating, Brunch, Air Conditioned, Kid Friendly, Private Dining Area Available, Wifi, Live Sports Screening, Free Parking, Buffet, Catering Available, Available for Functions, Smoking Area",3.2,Average,67,Restaurant/Shop
+Melt - Hotel Saffron Leaf,Kaonli,"North Indian, Chinese, Finger Food",1000,"Dinner, Breakfast, Lunch, Credit Card, Indoor Seating, Air Conditioned, Wifi, Axis Bank - Dining Delights",3.7,Good,41,Casual Dining
+Kukreja Food Complex,Krishna Nagar,"Chinese, North Indian, Mughlai",1000,"Credit Card, Lunch, Serves Alcohol, Debit Card, Delivery, Dinner, Cash, Takeaway Available, Luxury Dining, Fullbar, Wine, Air Conditioned, Wifi, Smoking Area, Drive in, Live Music, Indoor Seating, Serves Cocktails, Beer, Hookah, Free Wifi, Valet Parking Available, Live Entertainment",3.2,Average,45,Fine Dining
+Onyx - Four Points by Sheraton Dehradun,"Four Points by Sheraton, Jakhan",Drinks Only,1000,"Lunch, Credit Card, Debit Card, Serves Alcohol, Dinner, Cash, Air Conditioned, Above 18 Only, Smoking Area, Live Sports Screening, Nightlife, Fullbar, Indoor Seating, Live Music, Outdoor Seating",3.6,Good,26,Bar
+MOB- The Revolution Lounge,Rajpur,"Continental, North Indian, Italian",1000,"Credit Card, Lunch, Takeaway Available, Cash, Debit Card, Dinner, Serves Alcohol, Fullbar, Smoking Area, Indoor Seating, Air Conditioned",3.3,Average,46,Lounge
+Kaafal,Chironwali,"North Indian, Chinese, South Indian",1000,"Credit Card, Lunch, Cash, Breakfast, Dinner, Takeaway Available, Delivery, No Alcohol Available, Rooftop, Indoor Seating, Outdoor Seating",3.6,Good,22,Casual Dining
+Bottoms Up Bistro,Rajpur,"North Indian, Continental",1000,"Lunch, Cash, Takeaway Available, Debit Card, Dinner, Delivery, Credit Card, Outdoor Seating, Indoor Seating",3.4,Average,27,Casual Dining
+Graffiti,Chukkuwala,"Continental, Italian, Pizza",1000,"Takeaway Available, Lunch, No Alcohol Available, Credit Card, Cash, Dinner, Indoor Seating, Table Reservation Not Required, Wheelchair Accessible, Wifi",3.3,Average,13,Casual Dining
+Curry Club Restaurant - Hotel Crown Royale,Kaonli,"North Indian, Mughlai, Chinese",1000,"Dinner, Cash, Delivery, Breakfast, Lunch, Serves Alcohol, Credit Card, Debit Card, Fullbar, Indoor Seating, Digital Payments Accepted, Table Reservation Not Required, Outdoor Seating, Air Conditioned, Axis Bank - Dining Delights, Smoking Area",3.3,Average,17,Casual Dining
+Coco Rico - Hotel JSR Continental,Dharampur,"South Indian, North Indian, Italian, Continental, Chinese",1000,"Debit Card, Lunch, Takeaway Available, Cash, Credit Card, Dinner, Indoor Seating, Air Conditioned",3.1,Average,6,Quick Bites
+UK07 Restro,Ballupur,"North Indian, Awadhi",1000,"Cash, No Alcohol Available, Dinner, Credit Card, Takeaway Available, Lunch, Indoor Seating",2.8,Average,7,Casual Dining
+Head Over Heels - Hotel Madhuban,"Hotel Madhuban, Hathibarkala Salwala",Finger Food,1000,"Lunch, Debit Card, Dinner, Credit Card, Serves Alcohol, Cash, Indoor Seating, Fullbar, Air Conditioned",3.4,Average,10,Bar
+Blue Whale,Morowala,"North Indian, Chinese",1000,"Lunch, Cash, Takeaway Available, Dinner, Delivery, Fullbar, Digital Payments Accepted, Indoor Seating, Air Conditioned",3.3,Average,9,Lounge
+Spice Restaurant - Hotel Galaxy,Race Course,"North Indian, Chinese, Continental, Italian, Thai",1000,"Lunch, Dinner, Cash, Takeaway Available, Credit Card, Debit Card, Wifi, Air Conditioned, Indoor Seating, Table Reservation Not Required",3,Average,4,Casual Dining
+The Mint Leaf Restaurant - Hotel Shiva Residency,Hathibarkala Salwala,"North Indian, Chinese, Continental, Finger Food",1000,"Lunch, Breakfast, Credit Card, Delivery, Dinner, Air Conditioned, Valet Parking Available, Indoor Seating, Wifi",3.2,Average,9,Casual Dining
+Classic Restaurant,Karanpur,North Indian,1000,"Serves Alcohol, Dinner, Lunch, Credit Card, Indoor Seating, Fullbar, Air Conditioned, Table Reservation Not Required",2.9,Average,4,Casual Dining
+Blu Flames-Hotel The Golden Oyster,Majra,"North Indian, Chinese, Continental",1000,"Credit Card, Lunch, Takeaway Available, Cash, Debit Card, Breakfast, Dinner, Indoor Seating, Digital Payments Accepted, Wifi, Table booking not available, Air Conditioned",0,Not rated,3,Casual Dining
+Crystal - Hotel Solitaire Express,Chukkuwala,"North Indian, Chinese",1000,"Takeaway Available, Debit Card, Cash, Lunch, Credit Card, Breakfast, Dinner, Delivery, Indoor Seating, Buffet, Air Conditioned, Digital Payments Accepted",0,Not rated,3,Casual Dining
+Sky Hub,Dharampur,"Chinese, North Indian",1000,"Lunch, Takeaway Available, Dinner, Cash, Debit Card, Indoor Seating, Digital Payments Accepted, Rooftop",0,Not rated,1,Casual Dining
+The Phoenix Club,Khurbura,"Continental, Finger Food",1000,"Dinner, Debit Card, Lunch, Cash, Beer, Air Conditioned, Indoor Seating, Table booking recommended",0,Not rated,1,Lounge
+Bay Leaf - Hotel Ambassador,Chukkuwala,"North Indian, Continental, Chinese",1000,"Cash, Debit Card, Dinner, Takeaway Available, Delivery, Credit Card, Lunch, Breakfast, Indoor Seating, Air Conditioned",3,Average,4,Casual Dining
+Crystal Bar & Restaurant,Paltan Bazaar,North Indian,1000,"Dinner, Lunch, Serves Alcohol, Indoor Seating, Fullbar, Air Conditioned, Nightlife",0,Not rated,3,Bar
+Aroma @ Onix,Majra,"North Indian, Chinese",1000,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Air Conditioned",0,Not rated,1,Casual Dining
+Hotel Ambassador,Chukkuwala,"North Indian, Chinese, Continental",1000,"Credit Card, Debit Card, Takeaway Available, Cash, Dinner, No Alcohol Available, Breakfast, Lunch, Delivery, Air Conditioned, Indoor Seating, Axis Bank - Dining Delights",0,Not rated,2,Casual Dining
+The Coffee Shop,Karanpur,"North Indian, Chinese, Continental",1000,"Dinner, Credit Card, 4/5 Star, Luxury Dining, Wifi, Indoor Seating, Air Conditioned, Axis Bank - Dining Delights",0,Not rated,2,Fine Dining
+The Giggles Club,Ballupur,"North Indian, Chinese",1000,"Dinner, Credit Card, Debit Card, Lunch, Serves Alcohol, Cash, Takeaway Available, Air Conditioned, Smoking Area",0,Not rated,1,Casual Dining
+Blue Saucer - Hotel GMS Grand,Kaonli,"North Indian, Continental, Chinese",1000,"Lunch, Serves Alcohol, Takeaway Available, Debit Card, Dinner, Cash, Credit Card, Fullbar, Indoor Seating",0,Not rated,0,Casual Dining
+Aishwarya Bar & Family Restaurant,Chironwali,"North Indian, Chinese, Continental",1000,"Lunch, Cash, Credit Card, Dinner, Takeaway Available, Debit Card, Serves Alcohol, Fullbar, Indoor Seating",0,Not rated,0,Bar
+Paradise,Karanpur,"Chinese, North Indian, Continental",900,"Credit Card, Serves Alcohol, Lunch, Dinner, Takeaway Available, Fullbar, Wifi, Air Conditioned, Indoor Seating, Axis Bank - Dining Delights",4.3,Very Good,78,Casual Dining
+Level One,Hathibarkala Salwala,"North Indian, Chinese, Continental",900,"Credit Card, Dinner, Lunch, Debit Card, Delivery, Serves Alcohol, Cash, Air Conditioned, Luxury Dining, Fullbar, Indoor Seating, Serves Cocktails",3.8,Good,133,Fine Dining
+Sheesha Lounge & Restaurant,Krishna Nagar,"Italian, Continental, Chinese, North Indian",900,"Takeaway Available, Lunch, Delivery, Credit Card, Dinner, DJ, Karaoke, Smoking Area, Air Conditioned, Rooftop, Free Parking, Nightlife, Live Sports Screening, Private Dining Area Available, Live Music, Table booking recommended, Fullbar, Hookah, Indoor Seating, Digital Payments Accepted, Axis Bank - Dining Delights",3.7,Good,117,Casual Dining
+Bravo Charlie,Jakhan,"North Indian, Chinese, Continental",900,"Delivery, Lunch, Cash, Debit Card, Dinner, Credit Card, Live Music, Air Conditioned, Free Parking, Indoor Seating, Digital Payments Accepted, Kid Friendly",4,Very Good,54,Lounge
+The Cosmopolitan,Karanpur,"North Indian, Chinese",900,"Delivery, Lunch, Credit Card, Dinner, Indoor Seating, Axis Bank - Dining Delights, Air Conditioned, Table Reservation Not Required",3.8,Good,77,Casual Dining
+Ada - Four Banyans,Raipur,"Modern Indian, Awadhi, Chinese",900,"Breakfast, Dinner, Cash, Debit Card, Lunch, Credit Card, Takeaway Available, Indoor Seating",3.2,Average,7,Casual Dining
+Thirsty Anchor Parlor - TAP,Jakhan,"North Indian, South Indian, Chinese, Continental",850,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating, Outdoor Seating",4.1,Very Good,85,Casual Dining
+The Garage Dine-In,Ballupur,North Indian,850,"Lunch, Delivery, Credit Card, No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Digital Payments Accepted, Table Reservation Not Required, Desserts and Bakes, Free Parking, Indoor Seating, Air Conditioned, Live Sports Screening",4,Very Good,99,Casual Dining
+The Food Festival,Dharampur,"North Indian, Chinese, Biryani, South Indian",850,"Lunch, Delivery, Cash, Credit Card, Dinner, Indoor Seating, Air Conditioned",2.9,Average,14,Casual Dining
+Bercos,Hathibarkala Salwala,"Chinese, Momos",800,"Takeaway Available, Cash, Dinner, Debit Card, Lunch, No Alcohol Available, Credit Card, Air Conditioned, Indoor Seating",3.9,Good,105,Casual Dining
+Laxmi Bakers,Morowala,"Bakery, Fast Food",100,"No Seating Available, Cash, Takeaway Available",3.7,Good,26,Quick Bites
+Burger & Fast Food Corner,Dharampur,"Fast Food, North Indian",100,"Lunch, Standing Tables, Delivery, Dinner, Cash, Takeaway Available",3.3,Average,66,Quick Bites
+UK Roll Express,Karanpur,"Rolls, Fast Food",100,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating",3.5,Good,22,Quick Bites
+Chetan Puri Wala,Paltan Bazaar,North Indian,100,"Cash, Breakfast, Lunch, Takeaway Available, Indoor Seating",3.8,Good,36,Quick Bites
+Neeraj Sweet Shop,Khurbura,"North Indian, Mithai",100,"Dinner, Cash, Lunch, Takeaway Available, Pure Veg, Indoor Seating, Desserts and Bakes",3.8,Good,42,Casual Dining
+Silli Chilli,Ballupur,Fast Food,100,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Indoor Seating, Free Parking",3.6,Good,32,Quick Bites
+Ghai Kulfi,Race Course,"Desserts, Ice Cream",100,"Takeaway Available, Cash, Indoor Seating, Desserts and Bakes",3.3,Average,28,Dessert Parlour
+Kathi Rolls,Khurbura,Fast Food,100,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",3.7,Good,10,Quick Bites
+Bobbys Chinese Food Hut,Paltan Bazaar,Chinese,100,"Dinner, Cash, Takeaway Available, No Seating Available, Free Parking, Digital Payments Accepted, Self Service",3.6,Good,34,Quick Bites
+Tick N Pick,Balliwala,Fast Food,100,"Takeaway Available, Dinner, Cash, Lunch, Delivery, Indoor Seating",3.5,Good,17,Quick Bites
+My Corn,"Pacific Mall, Jakhan",Fast Food,100,"Mall Parking, Air Conditioned",3.6,Good,16,Kiosk
+New Jaina Restaurant,Khurbura,"North Indian, Fast Food",100,"Takeaway Available, Cash, Indoor Seating, Pure Veg",3.4,Average,22,Dhaba
+Delhi-6 Chat Bhandar,Jakhan,"Chinese, Street Food",100,"Takeaway Available, Debit Card, Cash, Delivery, Indoor Seating, Pure Veg, Digital Payments Accepted",3.2,Average,9,Quick Bites
+Sethis,Paltan Bazaar,Street Food,100,"No Alcohol Available, Breakfast, Dinner, Takeaway Available, Cash, Lunch, Indoor Seating, Pure Veg",3.3,Average,27,Quick Bites
+Binnys Fast Food,Karanpur,"Fast Food, Chinese",100,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",3.1,Average,21,Quick Bites
+Grind CC Pub,Ballupur,Coffee,100,"Breakfast, Lunch, Cash, Dinner, Air Conditioned, Free Parking, Table reservation required, Indoor Seating",2.6,Average,12,Quick Bites
+Kailash Bhojnalya,Race Course,North Indian,100,"No Alcohol Available, Breakfast, Lunch, Takeaway Available, Dinner, Cash, Indoor Seating, Pure Veg",3,Average,10,Dhaba
+Bikaner Sweets,Balliwala,"Street Food, Mithai, Fast Food",100,"No Alcohol Available, Takeaway Available, Cash, Indoor Seating, Free Parking, Air Conditioned, Pure Veg, Desserts and Bakes",3.1,Average,9,Sweet Shop
+Uttar Sweets,Krishna Nagar,"Mithai, North Indian, Street Food",100,"Breakfast, Lunch, Takeaway Available, Dinner, No Alcohol Available, Cash, Indoor Seating, Free Parking, Pure Veg",2.5,Average,18,Quick Bites
+Salvation Dreams,Jakhan,"Fast Food, Desserts, Kebab",100,"Cash, Indoor Seating, Digital Payments Accepted",2.7,Average,5,Quick Bites
+Montus Kitchen,Majra,North Indian,100,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",0,Not rated,3,Quick Bites
+Doon Chaat Bhandar,Race Course,"Chinese, Street Food",100,"No Seating Available, Standing Tables, Takeaway Available, Dinner, Cash",3.1,Average,4,Quick Bites
+ChaiWay,Jakhan,"Beverages, Fast Food",100,"Lunch, Takeaway Available, Dinner, Cash, Digital Payments Accepted",3.1,Average,7,Quick Bites
+Muradabadi Chicken Biryani,Paltan Bazaar,Biryani,100,"Available, Cash",3.1,Average,11,Restaurant/Shop
+Shahi Darbar,Paltan Bazaar,Mughlai,100,"Breakfast, Lunch, No Alcohol Available, Dinner, Takeaway Available, Cash, Indoor Seating",3.2,Average,7,Dhaba
+Sumit Drinks,Paltan Bazaar,Beverages,100,"Cash, Takeaway Available, Indoor Seating, Digital Payments Accepted",3.2,Average,6,Beverage Shop
+Kabir Dairy,Paltan Bazaar,Beverages,100,"Cash, Takeaway Available, Indoor Seating, Digital Payments Accepted",0,Not rated,2,Beverage Shop
+Big Bite,Race Course,Street Food,100,"No Seating Available, Dinner, Takeaway Available, Lunch, Cash",3.1,Average,5,Quick Bites
+Goli Vada Pav No.1,Paltan Bazaar,Street Food,100,"Delivery, Cash, Takeaway Available, Indoor Seating",2.9,Average,4,Quick Bites
+New Rita Kulfi,Race Course,"Desserts, Ice Cream",100,"Takeaway Available, Cash, Indoor Seating, Desserts and Bakes",0,Not rated,2,Dessert Parlour
+Maini Maggi Point,Prem Nagar,Fast Food,100,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Indoor Seating, Free Parking",3,Average,5,Quick Bites
+Delhi Fruit Juice Center,Hathibarkala Salwala,Beverages,100,"Cash, Takeaway Available, Indoor Seating",0,Not rated,2,Beverage Shop
+Punjabi Rajma Kadhi Chawal,Rajpur,North Indian,100,"Cash, Dinner, Lunch, Takeaway Available, Outdoor Seating",3,Average,5,Kiosk
+Grand Juice and Coffee Bar,Karanpur,"Juices, Beverages",100,"No Seating Available, Takeaway Available, Cash",3.2,Average,4,Beverage Shop
+Sant Kabir Dairy,Paltan Bazaar,"Beverages, Street Food",100,"Cash, Takeaway Available, Indoor Seating, Digital Payments Accepted",0,Not rated,2,Beverage Shop
+Hansraj Restaurant,Chukkuwala,"North Indian, Fast Food",100,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Pure Veg, Indoor Seating, Free Parking",0,Not rated,3,Dhaba
+Raju Food Restaurant,Hathibarkala Salwala,North Indian,100,"No Alcohol Available, Dinner, Lunch, Takeaway Available, Cash, Breakfast, Indoor Seating, Pure Veg, Free Parking",0,Not rated,3,Quick Bites
+Fresh Juice Corner,Paltan Bazaar,Juices,100,"Indoor Seating, Pure Veg",3,Average,4,Beverage Shop
+Swarna Bakers,Garhi Cantt,"Desserts, Bakery",100,"No Seating Available, Cash, Takeaway Available, Digital Payments Accepted",0,Not rated,2,Dessert Parlour
+Pappu Pakode Wale,Prem Nagar,Street Food,100,"Available, Cash",2.9,Average,4,Restaurant/Shop
+Ghai Kulfi,Malsi,"Desserts, Ice Cream",100,"Cash, Takeaway Available, Desserts and Bakes, Indoor Seating, Digital Payments Accepted",0,Not rated,2,Dessert Parlour
+New Sabri Kathi Roll & Chowmein Center,Subhash Nagar,"Fast Food, Chinese",100,"Takeaway Available, Dinner, Cash, Outdoor Seating",0,Not rated,3,Quick Bites
+Omi Dhaba,Khurbura,North Indian,100,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating",0,Not rated,3,Dhaba
+Basant Restaurant,Paltan Bazaar,Fast Food,100,"Delivery, Lunch, Dinner, Indoor Seating, Pure Veg",0,Not rated,3,Quick Bites
+The Lunch Box,Paltan Bazaar,North Indian,100,"No Seating Available, Lunch, Cash, Takeaway Available, Digital Payments Accepted, Self Service",0,Not rated,2,Food Truck
+Cafe Delight,Morowala,Bakery,100,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Pure Veg, Indoor Seating, Free Parking",0,Not rated,1,Casual Dining
+Maharaja Roll Corner,Hathibarkala Salwala,Fast Food,100,"No Seating Available, Dinner, Lunch, Cash",0,Not rated,2,Quick Bites
+Amritsari Hatti,Paltan Bazaar,North Indian,100,"No Seating Available, Dinner, Cash, Lunch, Standing Tables, Takeaway Available",0,Not rated,2,Quick Bites
+New Rita Kulfi,Rajpur,"Desserts, Ice Cream",100,"Takeaway Available, Cash, Indoor Seating, Desserts and Bakes",0,Not rated,1,Dessert Parlour
+5 Star Tea Stall,Morowala,North Indian,100,"Dinner, No Alcohol Available, Lunch, Takeaway Available, Cash, Pure Veg, Indoor Seating",0,Not rated,2,Dhaba
+Kings Kitchen,Raipur,"Chinese, Tea",100,"Takeaway Available, Cash, Indoor Seating",0,Not rated,1,Quick Bites
+Richi Rich Confectioners,Karanpur,"Fast Food, Bakery",100,"No Seating Available, Takeaway Available, Cash, Digital Payments Accepted",0,Not rated,2,Quick Bites
+SK Restaurant,Hathibarkala Salwala,North Indian,100,"Indoor Seating, Pure Veg",0,Not rated,1,Dhaba
+Parantha Point,Prem Nagar,North Indian,100,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Breakfast, Indoor Seating, Pure Veg",0,Not rated,1,Dhaba
+Manohar Tea Shop,Hathibarkala Salwala,North Indian,100,"Lunch, Dinner, Indoor Seating, Pure Veg",0,Not rated,2,Dhaba
+Himalayan Bakers,Hathibarkala Salwala,Bakery,100,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes",0,Not rated,1,Bakery
+Sai Fast Food,Chukkuwala,"North Indian, Fast Food",100,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",0,Not rated,1,Quick Bites
+Karan Fast Food & Restaurant,Karanpur,North Indian,100,"No Alcohol Available, Breakfast, Dinner, Takeaway Available, Cash, Lunch, Indoor Seating, Pure Veg, Free Parking",0,Not rated,1,Quick Bites
+Atram Patram,Chukkuwala,Street Food,100,"Cash, Takeaway Available, Debit Card, Delivery, Credit Card",0,Not rated,1,Restaurant/Shop
+Goyal Dairy,Ballupur,Beverages,100,"Cash, Takeaway Available, Indoor Seating",0,Not rated,1,Quick Bites
+New Diksha Bhojanalaya,Dharampur,North Indian,100,"Available, Cash",0,Not rated,1,Quick Bites
+Scoops Ice Cream Cafe,Krishna Nagar,Ice Cream,100,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Digital Payments Accepted",0,Not rated,0,Dessert Parlour
+Momos Planet,Karanpur,Fast Food,100,"Lunch, Cash, Dinner, Takeaway Available, Outdoor Seating, Indoor Seating",0,Not rated,1,Quick Bites
+The Lunch Box,Kaonli,North Indian,100,"No Seating Available, Lunch, Cash, Takeaway Available, Digital Payments Accepted, Self Service",0,Not rated,0,Food Truck
+Bismillah Dhaba,Paltan Bazaar,North Indian,100,"Dinner, Lunch, Indoor Seating",0,Not rated,0,Dhaba
+Sri Sai Lucky Restaurant,Paltan Bazaar,Fast Food,100,"No Alcohol Available, Cash, Dinner, Lunch, Takeaway Available, Pure Veg, Free Parking, Digital Payments Accepted, Indoor Seating",0,Not rated,0,Quick Bites
+Sharma Spicy Food,Prem Nagar,"North Indian, Fast Food",100,"No Seating Available, Dinner, Takeaway Available, Lunch, Cash, Breakfast",0,Not rated,0,Quick Bites
+Munal Tea Express,Karanpur,"Fast Food, Beverages",100,"Lunch, Takeaway Available, Cash, Delivery, Outdoor Seating, Smoking Area, Indoor Seating",0,Not rated,0,Quick Bites
+Wongs Chinese,Majra,"Chinese, Fast Food",100,"Takeaway Available, Debit Card, Dinner, Cash, Credit Card, Lunch, Delivery, Indoor Seating, Digital Payments Accepted",0,Not rated,0,Quick Bites
+Lazezz Kathi Roll From Kolkatas,Ballupur,Rolls,120,"Delivery, No Alcohol Available, Cash, Takeaway Available, Indoor Seating",3.7,Good,38,Quick Bites
+Night Owls,Morowala,"Fast Food, North Indian, Chinese",149,"Delivery, Credit Card, Debit Card, Dinner, Cash, Takeaway Available, Breakfast, Indoor Seating, Digital Payments Accepted",3.4,Average,21,Quick Bites
+Roll Baby Roll,Majra,"Biryani, Chinese, North Indian, Rolls, Mughlai",150,"Cash, Takeaway Available, Delivery",3.8,Good,89,Restaurant/Shop
+Singh Soup Bar,Hathibarkala Salwala,Fast Food,150,"No Alcohol Available, Cash, Dinner, Credit Card, Takeaway Available, Lunch, Debit Card, Outdoor Seating",3.6,Good,93,Quick Bites
+Anas & Andyz,Balliwala,"Burger, Sandwich, Fast Food",150,"No Alcohol Available, Delivery, Cash, Free Parking, Digital Payments Accepted, Indoor Seating",4.1,Very Good,80,Quick Bites
+The Doon Jaayaka,Balliwala,"North Indian, Fast Food",150,"No Alcohol Available, Dinner, Takeaway Available, Lunch, Cash, Free Parking, Indoor Seating",3.6,Good,95,Quick Bites
+Goli Vada Pav No. 1,Jakhan,Street Food,150,"Cash, No Alcohol Available, Delivery, Takeaway Available, Dinner, Lunch, Indoor Seating, Free Parking, Pure Veg, Digital Payments Accepted",4.1,Very Good,91,Quick Bites
+SPS Rana Family Restaurant (KAKU),Dharampur,"North Indian, Chinese",150,"Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Indoor Seating",3.6,Good,48,Quick Bites
+Jaina Restaurant,Paltan Bazaar,Fast Food,150,"Cash, Dinner, Takeaway Available, No Alcohol Available, Lunch, Pure Veg, Free Parking, Indoor Seating",3.9,Good,74,Dhaba
+Punjabi Rasoi,Majra,North Indian,150,"No Seating Available, Delivery, Cash, Takeaway Available",3.6,Good,26,Restaurant/Shop
+Kalra Sweet Shop,Prem Nagar,"Street Food, Mithai, Fast Food",150,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes, Digital Payments Accepted",3.5,Good,50,Sweet Shop
+Sangam Food Point,Subhash Nagar,North Indian,150,"Dinner, Cash, Credit Card, Debit Card, Lunch, Takeaway Available, Breakfast, Indoor Seating, Digital Payments Accepted",4.1,Very Good,37,Quick Bites
+Gianis,Race Course,"Ice Cream, Desserts",150,"Cash, Credit Card, Delivery, Indoor Seating, Air Conditioned, Desserts and Bakes",3.8,Good,43,Dessert Parlour
+Roll Baby Roll,Krishna Nagar,"Biryani, Chinese, North Indian, Rolls, Mughlai",150,"Cash, Takeaway Available, Delivery",3.6,Good,24,Restaurant/Shop
+Sardarji Di Rasoi,Jakhan,North Indian,150,"Credit Card, Dinner, Delivery, Debit Card, Lunch, Cash, Takeaway Available, Indoor Seating",2.7,Average,31,Quick Bites
+Tandons Fast Food,Rajpur,"Chinese, Momos",150,"Cash, Dinner, Delivery, No Alcohol Available, Lunch, Indoor Seating",4,Very Good,43,Dhaba
+Sunrise Bakers,Paltan Bazaar,Bakery,150,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes",3.8,Good,54,Bakery
+Jeeja Saaley Di Angeethi,Ballupur,"Fast Food, Momos, Chinese",150,"Cash, Dinner, Lunch, Takeaway Available, Pure Veg",3.7,Good,33,Quick Bites
+Street Buster,Khurbura,"Fast Food, Pizza, Beverages",150,"Dinner, Delivery, Debit Card, Lunch, Cash, Takeaway Available, Credit Card, Indoor Seating, Air Conditioned, Pure Veg, Free Wifi",3.5,Good,21,Quick Bites
+The Bun Basket,Jakhan,Bakery,150,"Takeaway Available, Cash, Credit Card, Debit Card, Air Conditioned, Desserts and Bakes, Indoor Seating",2.7,Average,20,Bakery
+Friends Sandwich Corner,Prem Nagar,Fast Food,150,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Indoor Seating, Free Parking",3.5,Good,41,Quick Bites
+Bhardwaj Bakers,Dharampur,"Fast Food, Desserts, Bakery",150,"No Seating Available, Delivery, Cash, Takeaway Available, Digital Payments Accepted, Desserts and Bakes",3.3,Average,25,Quick Bites
+Lucky Da Dhaba,Race Course,North Indian,150,"Dinner, Lunch, No Alcohol Available, Breakfast, Takeaway Available, Cash, Indoor Seating",3.4,Average,26,Dhaba
+Prakash and Brothers Dhaba,Majra,North Indian,150,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Pure Veg, Digital Payments Accepted",3.5,Good,24,Quick Bites
+WOW Chinese,Krishna Nagar,Chinese,150,"Cash, Lunch, Dinner, Takeaway Available, No Alcohol Available, Outdoor Seating",3.5,Good,22,Quick Bites
+Chappan Bhog,Race Course,Mithai,150,"Cash, Takeaway Available, Indoor Seating, Pure Veg, Desserts and Bakes",3.5,Good,18,Sweet Shop
+The 7th Street Cafe,Subhash Nagar,"North Indian, Fast Food",150,"Dinner, Cash, Takeaway Available, Lunch, Breakfast, Indoor Seating, Kid Friendly, Smoking Area",3.3,Average,9,Quick Bites
+Wow Chinese,Race Course,Chinese,150,"No Alcohol Available, Lunch, Cash, No Seating Available, Dinner, Takeaway Available",3.5,Good,21,Quick Bites
+Kumar Sweet Shop,Chukkuwala,Desserts,400,"Dinner, Takeaway Available, Debit Card, Lunch, Credit Card, Cash, Outdoor Seating, Table Reservation Not Required, Pure Veg, Indoor Seating",4.4,Very Good,153,Casual Dining
+The Tea Room at Alaya,Rajpur,Fast Food,600,"Takeaway Available, Cash, Credit Card, Lunch, No Alcohol Available, Debit Card, Indoor Seating",4.4,Very Good,75,Quick Bites
+Bowwow,Jakhan,"Mexican, International, Street Food, Indian, Fusion, American, Chinese",800,"Cash, Debit Card, Dinner, Serves Alcohol, Takeaway Available, Credit Card, Lunch, Delivery, Live Entertainment, Free Parking, Indoor Seating, Kid Friendly, Hookah, Private Dining Area Available, Wifi, Live Music, Karaoke, Outdoor Seating, Rooftop, Brunch, Air Conditioned, Available for Functions, Pet Friendly, Smoking Area",4.3,Very Good,105,Casual Dining
+Eltham Bakery & Coffee House,Malsi,"Bakery, Cafe",500,"No Alcohol Available, Breakfast, Delivery, Credit Card, Cash, Debit Card, Digital Payments Accepted, Free Parking, Gluten Free Options, Desserts and Bakes, Smoking Area, Brunch, Indoor Seating, Air Conditioned, All Day Breakfast, Outdoor Seating",4.2,Very Good,110,Bakery
+The Bong Twist,Chironwali,Bengali,500,"Credit Card, No Alcohol Available, Cash, Lunch, Takeaway Available, Dinner, Debit Card, Smoking Area, Indoor Seating, Digital Payments Accepted",4.2,Very Good,102,Casual Dining
+Al Baik Chicken,Balliwala,Fast Food,200,"Lunch, Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Outdoor Seating",4.2,Very Good,81,Quick Bites
+Bistro David,Prem Nagar,Fast Food,500,"Lunch, Delivery, No Alcohol Available, Dinner, Cash, Takeaway Available, Indoor Seating, Table booking recommended",4.2,Very Good,51,Quick Bites
+Bigway Cafe,Garhi Cantt,"Continental, North Indian, Chinese",550,"Lunch, Takeaway Available, Debit Card, Dinner, Cash, Delivery, Credit Card, Outdoor Seating, Air Conditioned, Wifi, Indoor Seating",4.1,Very Good,58,Quick Bites
+Salt & Cravings,"Hotel President, Karanpur","Cafe, Desserts",500,"Credit Card, Cash, Dinner, Takeaway Available, No Alcohol Available, Debit Card, Lunch, Air Conditioned, Table Reservation Not Required, Free Wifi, Desserts and Bakes, Indoor Seating",4.1,Very Good,109,Cafe
+FroRolls,Hathibarkala Salwala,"Desserts, Ice Cream",200,"Debit Card, Delivery, Cash, No Alcohol Available, Credit Card, Desserts and Bakes, Indoor Seating, Gluten Free Options, Air Conditioned, Pure Veg",4.1,Very Good,98,Dessert Parlour
+Desi Chulha,Malsi,North Indian,800,"Lunch, Cash, Dinner, Delivery, Outdoor Seating, Indoor Seating",4.1,Very Good,107,Casual Dining
+Mamma Mia Bistro By BMG,Jakhan,"North Indian, Chinese",600,"Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned, Digital Payments Accepted",4.1,Very Good,17,Casual Dining
+Cafe COCO - Regenta LP Vilas,"Regenta LP Vilas, Prem Nagar",Cafe,600,"Credit Card, No Alcohol Available, Dinner, Cash, Debit Card, Lunch, Indoor Seating",4.1,Very Good,65,Cafe
+Keventers,"Pacific Mall, Jakhan","Beverages, Desserts, Ice Cream",400,"Takeaway Available, Mall Parking, Debit Card, Cash, Credit Card, Pure Veg, Indoor Seating, Desserts and Bakes",4.1,Very Good,57,Food Court
+Tahinis,Dharampur,Fast Food,250,"Lunch, Standing Tables, Takeaway Available, Dinner, Cash",4.1,Very Good,19,Restaurant/Shop
+Anandam Express,Chukkuwala,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",650,"Dinner, Breakfast, Lunch, Cash, Credit Card, Debit Card, Indoor Seating, Table Reservation Not Required, Pure Veg, Air Conditioned",4.1,Very Good,35,Casual Dining
+The Jail,Malsi,"Cafe, Continental, Chinese",500,"Cash, No Alcohol Available, Lunch, Takeaway Available, Dinner, Indoor Seating, Table booking recommended, Outdoor Seating, Air Conditioned",2.3,Poor,116,Cafe
+Cafe Coffee Day,"Crossroads Mall, Karanpur","Beverages, Cafe, Sandwich, Fast Food",500,"No Alcohol Available, Dinner, Cash, Credit Card, Lunch, Mall Parking, Takeaway Available, Debit Card, Air Conditioned, Desserts and Bakes, Indoor Seating, Digital Payments Accepted",2.3,Poor,20,Cafe
+Hashtag 1Way Adda,Malsi,North Indian,400,"Lunch, Serves Alcohol, Cash, Breakfast, Dinner, Takeaway Available, Indoor Seating, Digital Payments Accepted, Beer",2.4,Poor,13,Quick Bites
+NCR Kitchen,Hathibarkala Salwala,"Chinese, Fast Food",300,"Cash, Lunch, Delivery, Dinner, Takeaway Available, Indoor Seating, Digital Payments Accepted",2.4,Poor,29,Quick Bites
+The Pizza Bite,Dharampur,Fast Food,500,"Delivery, Credit Card, Lunch, Takeaway Available, Debit Card, No Alcohol Available, Dinner, Cash, Indoor Seating, Digital Payments Accepted",2.4,Poor,32,Quick Bites
+Janta Bakers,Chukkuwala,Bakery,200,"Cash, Lunch, Dinner, Takeaway Available, Table Reservation Not Required, Digital Payments Accepted, Air Conditioned, Desserts and Bakes, Indoor Seating, Pure Veg",2.4,Poor,14,Casual Dining
+SnB Cafe,Rajpur,"Cafe, Chinese, Indian",600,"Lunch, Cash, Dinner, Breakfast, Live Music, Indoor Seating",2.5,Average,13,Cafe
+The Great Grand PA Cafe,Paltan Bazaar,"North Indian, Cafe",450,"Takeaway Available, Cash, Lunch, No Alcohol Available, Dinner, Breakfast, Indoor Seating, Pure Veg, Air Conditioned, Digital Payments Accepted",2.5,Average,10,Quick Bites
+The Black Pearl Lounge and Restro,Rajpur,"Chinese, North Indian",800,"Lunch, Credit Card, Debit Card, Dinner, Cash, Takeaway Available, Breakfast, DJ, Free Parking, Nightlife, Fullbar, Indoor Seating, Free Wifi, Digital Payments Accepted, Disabled Friendly, Wifi, Dance Floor, Live Sports Screening, Valet Parking Available, Live Music, Rooftop, Above 18 Only, Air Conditioned",2.6,Average,62,Casual Dining
+Genesis Cafe & Restaurant,Chironwali,"Cafe, North Indian, Fast Food",700,"Dinner, Cash, No Alcohol Available, Takeaway Available, Lunch, Air Conditioned, Free Wifi, Table Reservation Not Required, Indoor Seating, Wifi, Digital Payments Accepted",2.6,Average,28,Cafe
+Hotel Sun Park,Kaonli,"North Indian, Chinese, Continental",800,"Credit Card, Lunch, Breakfast, Dinner, Air Conditioned, Indoor Seating, Wifi",2.6,Average,15,Casual Dining
+The Four S,Garhi Cantt,"Chinese, North Indian",500,"Cash, Takeaway Available, Lunch, Delivery, Dinner, Outdoor Seating, Indoor Seating",2.6,Average,13,Casual Dining
+Mota Bhai,Balliwala,"North Indian, Chinese",300,"Dinner, Cash, Takeaway Available, Lunch, Delivery, Indoor Seating, Digital Payments Accepted",2.6,Average,5,Quick Bites
+Capital Sweets,Balliwala,"Street Food, Mithai, Fast Food",250,"Delivery, Lunch, Takeaway Available, Cash, Breakfast, Dinner, Indoor Seating, Pure Veg, Desserts and Bakes, Outdoor Seating",2.6,Average,14,Quick Bites
+Dana Pani Restaurant,Majra,"North Indian, Chinese",800,"Lunch, Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Indoor Seating, Air Conditioned, Table Reservation Not Required",2.7,Average,66,Casual Dining
+Chutney Merry,Krishna Nagar,"North Indian, Chinese",400,"Dinner, Delivery, Credit Card, Debit Card, Lunch, Cash, Takeaway Available, Indoor Seating, Air Conditioned, Digital Payments Accepted",2.7,Average,29,Casual Dining
+New 7 Days Restaurant,Paltan Bazaar,"North Indian, Chinese",500,"Cash, Debit Card, Dinner, Delivery, Credit Card, Lunch, No Alcohol Available, Takeaway Available, Indoor Seating, Air Conditioned",2.7,Average,20,Casual Dining
+Momos Bite,Garhi Cantt,"Fast Food, Momos, Chinese",250,"Lunch, Cash, Dinner, Takeaway Available, Outdoor Seating, Indoor Seating",2.7,Average,6,Quick Bites
+Ludhiana Fast Food,Laxman Chowk,Fast Food,250,"Cash, Takeaway Available, Dinner, Delivery, Outdoor Seating, Pure Veg",2.7,Average,12,Quick Bites
+Payal Restaurant,Chukkuwala,"North Indian, Chinese",600,"Cash, Debit Card, Credit Card, Dinner, No Alcohol Available, Takeaway Available, Lunch, Delivery, Free Parking, Digital Payments Accepted, Indoor Seating",2.7,Average,17,Quick Bites
+Chennai Express,"Crossroads Mall, Karanpur",South Indian,300,"Debit Card, Dinner, Credit Card, Cash, Lunch, Takeaway Available, Mall Parking, Indoor Seating, Self Service, Air Conditioned, Pure Veg, Digital Payments Accepted",2.7,Average,4,Food Court
+In-Peace Cafe & Restaurant.,Chironwali,"Cafe, North Indian, Fast Food, Chinese",350,"Dinner, Takeaway Available, Debit Card, Lunch, Serves Alcohol, Cash, Delivery, Credit Card, Outdoor Seating, Digital Payments Accepted, Smoking Area",2.7,Average,7,Cafe
+Bakery Wala,Ballupur,"South Indian, Chinese, Bakery, North Indian",500,"Takeaway Available, Cash, Debit Card, Breakfast, Dinner, Delivery, No Alcohol Available, Credit Card, Lunch, Indoor Seating, Free Parking, Air Conditioned, Pure Veg, Digital Payments Accepted, All Day Breakfast",2.7,Average,13,Quick Bites
+Tandoori Flames Cafe & Restaurant.,Subhash Nagar,"North Indian, Fast Food",200,"Dinner, Takeaway Available, Lunch, Cash, Debit Card, Indoor Seating, Air Conditioned, Digital Payments Accepted",2.7,Average,6,Quick Bites
+Bhaiya Samose Wale,Chukkuwala,"Street Food, Fast Food",150,"Available, Cash",2.7,Average,12,Restaurant/Shop
+Janta Bakers,Majra,Bakery,200,"Credit Card, Lunch, Debit Card, Dinner, Indoor Seating, Pure Veg",2.7,Average,8,Bakery
+Bikanervala,Chironwali,"North Indian, Mithai, Chinese, South Indian, Street Food, Beverages",600,"Takeaway Available, Cash, Credit Card, Breakfast, Dinner, Debit Card, Lunch, Table Reservation Not Required, Indoor Seating, Pure Veg, Digital Payments Accepted",2.8,Average,49,Quick Bites
+Tacos Fusion Brasserie,Karanpur,North Indian,700,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating, Air Conditioned, Digital Payments Accepted",2.8,Average,10,Casual Dining
+New Al-Baiks,Jakhan,Fast Food,300,"Lunch, Cash, No Alcohol Available, Dinner, Takeaway Available, Indoor Seating",2.8,Average,26,Quick Bites
+Akkis Pizza,Dharampur,"Fast Food, Pizza",300,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Digital Payments Accepted",2.8,Average,15,Quick Bites
+Tandoori Night,Dharampur,"North Indian, Chinese",500,"Dinner, Cash, Lunch, Delivery, Indoor Seating, Digital Payments Accepted",2.8,Average,26,Casual Dining
+China Town,"Crossroads Mall, Karanpur",Chinese,450,"Dinner, Cash, Mall Parking, Credit Card, Takeaway Available, Lunch, Debit Card, Air Conditioned, Indoor Seating, Digital Payments Accepted, Self Service",2.8,Average,9,Food Court
+Best Of India Multicusine Family Restaurant,Chukkuwala,"Chinese, North Indian, Continental",400,"Lunch, Delivery, Credit Card, No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned",2.8,Average,7,Quick Bites
+Negi Family Restaurant,Race Course,"North Indian, Chinese",250,"Dinner, Cash, Takeaway Available, Lunch, Delivery, Outdoor Seating, Digital Payments Accepted",2.8,Average,12,Quick Bites
+Delhi Delight,Majra,"North Indian, Chinese",300,"Takeaway Available, Dinner, Cash, Lunch, Indoor Seating",2.8,Average,9,Quick Bites
+Cafe Freedom,Malsi,Fast Food,250,"No Alcohol Available, Cash, Breakfast, Dinner, Takeaway Available, Lunch, Indoor Seating, Free Parking, Digital Payments Accepted",2.8,Average,7,Quick Bites
+Masala Restaurant,Khurbura,North Indian,450,"Cash, Takeaway Available, Lunch, No Alcohol Available, Dinner, Indoor Seating",2.8,Average,15,Casual Dining
+Tandoori Dhaba,Paltan Bazaar,North Indian,150,"Cash, Lunch, Dinner, No Alcohol Available, Pure Veg, Indoor Seating",2.8,Average,7,Dhaba
+T3,Jakhan,"Fast Food, North Indian",500,"Lunch, Cash, Dinner, No Alcohol Available, Takeaway Available, Free Parking, Air Conditioned, Indoor Seating",2.8,Average,11,Quick Bites
+Ganapati Sweets,Meedo Plaza,"South Indian, Mithai, Street Food",250,"Lunch, Takeaway Available, Dinner, Cash, Air Conditioned, Indoor Seating, Pure Veg",2.8,Average,11,Casual Dining
+Hangout,Subhash Nagar,"Ice Cream, Desserts, Beverages",200,"Cash, Takeaway Available, Debit Card, Delivery, Credit Card, Outdoor Seating, Digital Payments Accepted, Desserts and Bakes",2.8,Average,7,Dessert Parlour
+The Chings Chinese Restro,Jakhan,"Chinese, Thai, Momos",800,"Lunch, Cash, Takeaway Available, Dinner, Free Parking, Table booking for Groups, Indoor Seating, Digital Payments Accepted, Wifi",2.8,Average,5,Casual Dining
+Chatori Tummy,Dharampur,"Chinese, Fast Food",250,"No Seating Available, Credit Card, Dinner, Takeaway Available, Cash, Debit Card, Lunch, Self Service, Digital Payments Accepted",2.8,Average,8,Quick Bites
+Hwaz Khas,Balliwala,Cafe,400,"Takeaway Available, Cash, Debit Card, Dinner, No Alcohol Available, Credit Card, Lunch, Indoor Seating, Air Conditioned, Smoking Area, Hookah",2.8,Average,8,Quick Bites
+Chillies N Chimneys Restaurant - Hotel G.P. Grand,Paltan Bazaar,"North Indian, Chinese",800,"Credit Card, Lunch, Dinner, Air Conditioned, Table Reservation Not Required, Indoor Seating, Pure Veg",2.8,Average,5,Casual Dining
+Navratna Restaurant,Balliwala,North Indian,400,"Dinner, Cash, Takeaway Available, Lunch, Delivery, No Alcohol Available, Indoor Seating, Free Parking, Digital Payments Accepted",2.8,Average,9,Quick Bites
+Dosa Paradise,Morowala,South Indian,250,"Lunch, Takeaway Available, No Alcohol Available, Dinner, Cash, Outdoor Seating",2.8,Average,5,Quick Bites
+Vishal Vishnu Dhaba,Paltan Bazaar,North Indian,150,"Lunch, Dinner, Indoor Seating, Pure Veg",2.8,Average,4,Dhaba
+Central Park Cafe,Race Course,"Fast Food, Chinese, Continental",300,"Lunch, Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Debit Card, Indoor Seating",2.9,Average,79,Cafe
+Pushpanjali Restaurant,Majra,"Chinese, North Indian",200,"Lunch, Takeaway Available, Dinner, Cash, Debit Card, Digital Payments Accepted",2.9,Average,29,Quick Bites
+Vaango!,"Pacific Mall, Jakhan",South Indian,350,"Dinner, Mall Parking, Lunch, Takeaway Available, Credit Card, Indoor Seating, Pure Veg",2.9,Average,35,Food Court
+Chicken Point,Hathibarkala Salwala,North Indian,500,"Takeaway Available, Cash, Delivery",2.9,Average,56,Restaurant/Shop
+Yambis Coffee Bar,Malsi,Fast Food,800,"Credit Card, Lunch, No Alcohol Available, Takeaway Available, Cash, Debit Card, Breakfast, Dinner, Delivery, Outdoor Seating, Digital Payments Accepted, Indoor Seating",2.9,Average,26,Quick Bites
+Friends Chicken Corner,Prem Nagar,North Indian,300,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Indoor Seating, Digital Payments Accepted",2.9,Average,8,Quick Bites
+Biryani Pind Di,Chukkuwala,"North Indian, Biryani",200,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",2.9,Average,23,Quick Bites
+Pappa Sai Naivedyam,Jakhan,"North Indian, South Indian",300,"Dinner, Takeaway Available, Breakfast, Lunch, Cash, Delivery, Credit Card, Debit Card, Indoor Seating, Air Conditioned, Smoking Area, Digital Payments Accepted",2.9,Average,19,Casual Dining
+Shri Ambey Bikaner Mishthan Bhandar,Garhi Cantt,"Street Food, Mithai",400,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Digital Payments Accepted",2.9,Average,6,Sweet Shop
+Thaliwala.com,Dharampur,North Indian,300,"Takeaway Available, Cash, Digital Payments Accepted",2.9,Average,4,Restaurant/Shop
+Hungry Birds,Prem Nagar,"Chinese, Fast Food",200,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating",2.9,Average,4,Quick Bites
+Banjaara Restaurant,Karanpur,"North Indian, Chinese",800,"Delivery, Lunch, Cash, Dinner, Takeaway Available, Indoor Seating, Air Conditioned",2.9,Average,11,Restaurant/Shop
+New Madras Cafe,Dharampur,"South Indian, Beverages",200,"Cash, Takeaway Available, Credit Card, Delivery, Debit Card, Indoor Seating, Digital Payments Accepted, Air Conditioned, Pure Veg",2.9,Average,18,Quick Bites
+The Adda,Rajpur,Cafe,400,"Breakfast, Smoking Area",2.9,Average,6,Cafe
+Aarush Chocolate Corner,Chironwali,"Bakery, Fast Food",200,"Cash, Takeaway Available, Delivery, Indoor Seating",2.9,Average,4,Bakery
+Bakery Wala,Chironwali,Bakery,250,"Cash, Debit Card, Breakfast, Takeaway Available, Credit Card, Indoor Seating, Digital Payments Accepted, Desserts and Bakes",2.9,Average,6,Quick Bites
+Hungry Jax,"Crossroads Mall, Karanpur","Fast Food, Italian",250,"Dinner, Lunch, Takeaway Available, Mall Parking, Delivery, Cash, Indoor Seating",2.9,Average,6,Food Court
+Bhatias Fast Food,Race Course,Fast Food,150,"Takeaway Available, Lunch, Dinner, Cash, Digital Payments Accepted, Outdoor Seating, Indoor Seating",2.9,Average,8,Quick Bites
+Fast Food Center,Khurbura,North Indian,150,"No Seating Available, Dinner, Delivery, Lunch, Cash, Takeaway Available, Pure Veg",2.9,Average,5,Restaurant/Shop
+Punjabi Rasoi,Malsi,North Indian,400,"Dinner, Delivery, Lunch, Cash, Takeaway Available, Indoor Seating",2.9,Average,6,Quick Bites
+Dun Kitchen,Kaonli,North Indian,200,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",2.9,Average,5,Quick Bites
+Garhwali Family Dhaba,Subhash Nagar,North Indian,300,"Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Breakfast, Lunch, Indoor Seating",2.9,Average,10,Quick Bites
+The Food City,Ballupur,"North Indian, Chinese",250,"Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Indoor Seating",2.9,Average,7,Quick Bites
+Kumar Sweet Shop,Prem Nagar,"Street Food, Fast Food, Mithai",200,"No Seating Available, Takeaway Available, Cash, Credit Card, Delivery, Debit Card, Desserts and Bakes, Air Conditioned, Digital Payments Accepted",2.9,Average,4,Sweet Shop
+Cafe Hashtag Baluni,Subhash Nagar,"Fast Food, Chinese, North Indian",200,"Dinner, Takeaway Available, Debit Card, Lunch, Cash, Credit Card, Indoor Seating",2.9,Average,4,Quick Bites
+Lets Hangout Restaurant & Lounge,Kaonli,"North Indian, Chinese, Continental",800,"Dinner, Delivery, Credit Card, Serves Alcohol, Lunch, Cash, Takeaway Available, Debit Card, DJ, Wine, Indoor Seating, Serves Cocktails, Air Conditioned, Smoking Area, Buffet, Outdoor Seating, Beer, Rooftop, Digital Payments Accepted, Wifi, Brunch",2.9,Average,4,Casual Dining
+Taneja Restaurant,Prem Nagar,North Indian,250,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Indoor Seating, Pure Veg",2.9,Average,6,Dhaba
+Prakash Bhojanalya,Race Course,North Indian,400,"Cash, Dinner, Delivery, Lunch, No Alcohol Available, Takeaway Available, Indoor Seating",2.9,Average,4,Quick Bites
+Binnys Quiznos,Rajpur,Fast Food,300,"Lunch, Cash, No Alcohol Available, Dinner, Takeaway Available, Indoor Seating",2.9,Average,4,Quick Bites
+Darjeeling Restaurant,Garhi Cantt,"North Indian, Chinese",300,"Cash, Dinner, Takeaway Available, No Alcohol Available, Lunch, Delivery, Free Parking, Indoor Seating, Digital Payments Accepted",2.9,Average,6,Quick Bites
+Suramya Cafe &amp; Restro,Prem Nagar,"Chinese, Fast Food",600,"Lunch, Credit Card, Debit Card, Dinner, Cash, Breakfast, Fullbar, Indoor Seating",2.9,Average,7,Cafe
+Jhatphat,Morowala,Fast Food,200,"Dinner, Takeaway Available, Cash, Outdoor Seating",2.9,Average,6,Kiosk
+Punjabi Tadka,Chironwali,North Indian,300,"Lunch, Cash, No Alcohol Available, Dinner, Delivery, Indoor Seating",2.9,Average,5,Quick Bites
+Ashirwad Restaurant,Prem Nagar,Chinese,200,"Delivery, Cash, Takeaway Available, Digital Payments Accepted",2.9,Average,4,Restaurant/Shop
+Kathi Roll Corner,Rajpur,Rolls,200,"No Seating Available, Takeaway Available, Cash",2.9,Average,5,Kiosk
+Mahawar Bakers And Sweets,Dharampur,"North Indian, South Indian, Chinese",300,"No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Free Parking, Indoor Seating, Digital Payments Accepted, Pure Veg",2.9,Average,4,Quick Bites
+Jugnu Restaurant,Race Course,North Indian,250,"Dinner, No Alcohol Available, Lunch, Takeaway Available, Cash, Indoor Seating, Pure Veg",2.9,Average,4,Dhaba
+Bake My Day,Karanpur,"Bakery, Fast Food",500,"Cash, Debit Card, Delivery, Credit Card, Takeaway Available, No Seating Available, Desserts and Bakes, Indoor Seating",2.9,Average,4,Quick Bites
+Wat-a-Biryani,Jakhan,Fast Food,500,"Cash, Delivery",2.9,Average,4,Quick Bites
+Lip and Sip,Karanpur,Fast Food,300,"Dinner, No Alcohol Available, Cash, Lunch, Takeaway Available, Indoor Seating, Free Parking",3,Average,117,Casual Dining
+Clock Tower Cafe,Paltan Bazaar,North Indian,200,Cash,3,Average,10,Restaurant/Shop
+Shree Radhey - Aap Ki Rasoi,Chukkuwala,Fast Food,250,"Delivery, Debit Card, Dinner, Cash, Takeaway Available, Credit Card, Lunch, Air Conditioned, Pure Veg, Indoor Seating, Free Wifi",3,Average,13,Quick Bites
+Domnik Pizza,Prem Nagar,Pizza,350,"Takeaway Available, No Alcohol Available, Cash, Credit Card, Lunch, Delivery, Debit Card, Dinner, Indoor Seating, Air Conditioned, Free Parking, Digital Payments Accepted",3.8,Good,126,Quick Bites
+Chicken Inn,Hathibarkala Salwala,North Indian,700,"Cash, Lunch, Delivery, Dinner, No Alcohol Available, Indoor Seating",3.9,Good,142,Dhaba
+Pizza Hub,Prem Nagar,Pizza,300,"Cash, No Alcohol Available, Indoor Seating, Air Conditioned",3.8,Good,68,Quick Bites
+Domnik Pizza,Subhash Nagar,Pizza,350,"No Alcohol Available, Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Free Parking, Air Conditioned, Indoor Seating, Digital Payments Accepted",4,Very Good,98,Quick Bites
+Krazy for Coffee,Garhi Cantt,Cafe,350,"No Alcohol Available, Dinner, Takeaway Available, Lunch, Cash, Outdoor Seating, Indoor Seating",3.8,Good,95,Cafe
+Amritsari Junction,Jakhan,North Indian,200,"Cash, Dinner, Lunch, Takeaway Available, Delivery",3.8,Good,142,Quick Bites
+Dominos Pizza,Balliwala,"Pizza, Fast Food",400,"Cash, Takeaway Available, Debit Card, No Alcohol Available, Dinner, Delivery, Credit Card, Lunch, Free Parking, Indoor Seating, Air Conditioned",3.9,Good,108,Quick Bites
+Rising Dough,Hathibarkala Salwala,Cafe,500,"Delivery, Lunch, Credit Card, No Alcohol Available, Dinner, Takeaway Available, Air Conditioned, Indoor Seating, Table Reservation Not Required",4,Very Good,125,Cafe
+Delhi Chicken Point,Ballupur,"North Indian, Mughlai",450,"Lunch, Cash, Takeaway Available, Dinner, Delivery, Indoor Seating",4,Very Good,133,Quick Bites
+Downtown Multicusine Restaurant,Chironwali,"North Indian, Chinese, Desserts, Beverages, Ice Cream, Tea",700,"Credit Card, Dinner, Delivery, Cash, Lunch, Takeaway Available, Free Parking, Indoor Seating, Air Conditioned, Kid Friendly, Smoking Area, City View, Rooftop, Brunch, Catering Available, Private Dining Area Available, Wifi",4,Very Good,172,Casual Dining
+Kathi Xpress,Balliwala,"North Indian, Rolls",300,"Dinner, Cash, Lunch, Takeaway Available, Air Conditioned, Digital Payments Accepted, Indoor Seating",3.9,Good,169,Casual Dining
+9 Downtown,Malsi,"Cafe, Momos",350,"Delivery, Credit Card, Takeaway Available, Lunch, Dinner, Debit Card, No Alcohol Available, Cash, Indoor Seating, Air Conditioned, Outdoor Seating, Wifi, Table Reservation Not Required",3.9,Good,103,Cafe
+The Shawarma King,Dharampur,Fast Food,200,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",3.7,Good,90,Quick Bites
+Rajdhani Chicken Point,Race Course,North Indian,200,"Cash, Takeaway Available, Dinner, No Alcohol Available, Indoor Seating",3.7,Good,175,Dhaba
+Noodle House,Hathibarkala Salwala,"Chinese, Thai, Tibetan",600,"Credit Card, Dinner, Debit Card, Lunch, Takeaway Available, Cash, Delivery, Digital Payments Accepted, Indoor Seating, Table Reservation Not Required",3.9,Good,89,Casual Dining
+Bread Story,Khurbura,"Fast Food, Juices",400,"Lunch, Cash, Takeaway Available, Debit Card, Dinner, Credit Card, Free Parking, Free Wifi, Indoor Seating, Digital Payments Accepted, Self Service",3.8,Good,55,Quick Bites
+Lemon Grass Garden,Hathibarkala Salwala,Cafe,450,"Cash, Takeaway Available, Dinner, Breakfast, Debit Card, No Alcohol Available, Credit Card, Lunch, Outdoor Seating, Indoor Seating, Table Reservation Not Required",3.9,Good,78,Cafe
+Gulab Sweets,Subhash Nagar,"Mithai, Fast Food, North Indian",300,"Cash, Takeaway Available, Credit Card, Indoor Seating, Pure Veg, Desserts and Bakes, Air Conditioned",3.9,Good,105,Sweet Shop
+Big Bees Pizza,Malsi,Italian,550,"Credit Card, Lunch, Debit Card, Dinner, Takeaway Available, Cash, No Alcohol Available, Digital Payments Accepted, Indoor Seating, Free Parking",3.9,Good,80,Quick Bites
+Base N Burger,Karanpur,"Fast Food, Sandwich",250,"Delivery, Indoor Seating, Air Conditioned, Digital Payments Accepted",3.8,Good,97,Quick Bites
+31 Flavours,Paltan Bazaar,"Chinese, Italian, North Indian, South Indian, Momos",350,"Cash, No Alcohol Available, Dinner, Takeaway Available, Lunch, Outdoor Seating, Indoor Seating",3.7,Good,90,Quick Bites
+Cafe Valley Retreat,Rajpur,Cafe,750,"No Alcohol Available, Cash, Lunch, Dinner, Table booking recommended, Axis Bank - Dining Delights, Indoor Seating, Outdoor Seating, Air Conditioned, Digital Payments Accepted, Smoking Area",4,Very Good,86,Cafe
+Nathus Sweets,Majra,"Mithai, North Indian, South Indian, Fast Food",500,"Credit Card, Debit Card, No Alcohol Available, Dinner, Cash, Takeaway Available, Breakfast, Lunch, Delivery, Free Parking, Pure Veg, Desserts and Bakes, Indoor Seating, Air Conditioned",3.6,Good,81,Quick Bites
+First Crush Cafe,Ballupur,"Coffee, Beverages, Burger, Pizza",300,"Credit Card, No Alcohol Available, Cash, Debit Card, Delivery, Indoor Seating, Digital Payments Accepted, Free Wifi, Outdoor Seating, Desserts and Bakes, Air Conditioned",3.8,Good,79,Cafe
+Uncle Johns Pizza,Raipur,"Fast Food, Beverages, Pizza",600,"Dinner, Delivery, Lunch, Cash, Takeaway Available, Free Parking, Indoor Seating, Air Conditioned, Pure Veg, Drive Thru, Digital Payments Accepted",3.7,Good,86,Quick Bites
+Kumar Sweet Shop,Jakhan,"North Indian, South Indian, Chinese, Mithai",450,"No Alcohol Available, Credit Card, Cash, Takeaway Available, Debit Card, Dinner, Lunch, Air Conditioned, Digital Payments Accepted, Indoor Seating, Pure Veg, Free Parking",3.9,Good,92,Quick Bites
+My Wifes Place,Hathibarkala Salwala,"North Indian, Chinese",800,"Lunch, Delivery, Credit Card, Dinner, Luxury Dining, Air Conditioned, Fullbar, Indoor Seating, 4/5 Star, Table Reservation Not Required, Serves Cocktails",3.9,Good,136,Fine Dining
+Terrazzo,Ballupur,"North Indian, Chinese, Continental, Burger, Indian, Pizza",400,"Lunch, Takeaway Available, Debit Card, No Alcohol Available, Dinner, Cash, Delivery, Credit Card, Free Parking, Outdoor Seating, Rooftop, Available for Functions, Table Reservation Not Required, Smoking Area, Nightlife, Indoor Seating, Air Conditioned",3.5,Good,14,Fine Dining
+Green View Doon Restaurant,Malsi,"North Indian, Chinese",400,"Credit Card, Dinner, Takeaway Available, Cash, Debit Card, Lunch, Air Conditioned, Rooftop, Digital Payments Accepted, Smoking Area, Indoor Seating",3.1,Average,4,Fine Dining
+Daawat,Khurbura,"North Indian, Chinese, Continental, South Indian",700,"Credit Card, Lunch, Breakfast, Dinner, Air Conditioned, 4/5 Star, Indoor Seating, Luxury Dining",0,Not rated,2,Fine Dining
+Ashnan Restaurant,Jakhan,"Chinese, North Indian, Fast Food",500,"Credit Card, Lunch, Debit Card, Delivery, Dinner, Cash, Takeaway Available, 4/5 Star, Air Conditioned, Outdoor Seating, Digital Payments Accepted",3.7,Good,169,Casual Dining
+Punjab Restaurant,Race Course,"North Indian, Chinese",700,"Credit Card, Lunch, Delivery, Dinner, Air Conditioned, Indoor Seating",3.7,Good,186,Casual Dining
+aAL-Baik Family Restaurant,Garhi Cantt,"Fast Food, North Indian",700,"No Alcohol Available, Takeaway Available, Lunch, Debit Card, Dinner, Cash, Delivery, Credit Card, Air Conditioned, Digital Payments Accepted, Indoor Seating",3.7,Good,128,Casual Dining
+Sunset Home Kitchen,Karanpur,"North Indian, Chinese",500,"Credit Card, Delivery, Lunch, Takeaway Available, Dinner, Outdoor Seating",4,Very Good,217,Casual Dining
+Wild West Restaurant & Cafe,Rajpur,"Chinese, Italian, Indian",500,"Lunch, Cash, Credit Card, Dinner, Takeaway Available, Debit Card, Outdoor Seating, Air Conditioned, Indoor Seating, Table Reservation Not Required",3.9,Good,56,Casual Dining
+Kumar Foods Restaurant,Chukkuwala,"North Indian, Chinese, Continental",800,"Takeaway Available, Delivery, Dinner, Credit Card, Debit Card, Serves Alcohol, Lunch, Cash, Air Conditioned, Above 18 Only, Table booking recommended, Indoor Seating, Fullbar, Digital Payments Accepted",3.9,Good,93,Casual Dining
+Kumar Vegetarian,Chukkuwala,"South Indian, North Indian, Chinese",750,"Cash, Lunch, Credit Card, Debit Card, Takeaway Available, Dinner, Pure Veg, Indoor Seating, Air Conditioned",3.9,Good,95,Casual Dining
+Sammaan Restaurant,Race Course,North Indian,400,"Dinner, Lunch, Cash, Delivery, Takeaway Available, Breakfast, Pure Veg, Table Reservation Not Required, Indoor Seating",3.8,Good,87,Casual Dining
+Doon Tripple Nine,Krishna Nagar,"North Indian, Chinese",600,"Credit Card, Dinner, Cash, Lunch, Delivery, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned",3.9,Good,102,Casual Dining
+Savour Flavour,Majra,"North Indian, Chinese, Fast Food",700,"Lunch, Delivery, Dinner, Cash, Takeaway Available, Indoor Seating, Free Parking",3.4,Average,96,Casual Dining
+New Jain Vegetarian,Paltan Bazaar,North Indian,300,"Dinner, No Alcohol Available, Lunch, Takeaway Available, Cash, Pure Veg, Indoor Seating",3.7,Good,92,Casual Dining
+Bhura Chicken Corner,Race Course,North Indian,500,"Takeaway Available, Dinner, Cash, Indoor Seating",3.8,Good,115,Casual Dining
+Kumar Sweets and Restaurant,Subhash Nagar,"North Indian, South Indian, Chinese, Mithai",450,"Lunch, Delivery, Debit Card, No Alcohol Available, Dinner, Cash, Takeaway Available, Credit Card, Indoor Seating, Air Conditioned, Pure Veg, Desserts and Bakes",3.6,Good,69,Casual Dining
+Cafe Headquarters,Prem Nagar,Cafe,0,"Dinner, Lunch, Air Conditioned, Indoor Seating, Wifi",3.4,Average,73,Cafe
+Aman Vegetarian,Race Course,North Indian,300,"Takeaway Available, Dinner, Cash, Lunch, Breakfast, Indoor Seating, Digital Payments Accepted, Table Reservation Not Required",3.6,Good,70,Casual Dining
+The Dim Sum House,Malsi,"Chinese, Continental, Thai, Momos",550,"Dinner, Takeaway Available, Credit Card, Debit Card, Cash, Lunch, No Alcohol Available, Wifi, Indoor Seating, Free Parking, Table Reservation Not Required",3.5,Good,60,Casual Dining
+H2 Club,Ballupur,"Chinese, North Indian",750,"Credit Card, Takeaway Available, Dinner, Lunch, Serves Alcohol, Air Conditioned, Indoor Seating",3.9,Good,90,Casual Dining
+The Old Monkeys Cafe,Subhash Nagar,"American, Cafe, Italian",600,"Debit Card, Delivery, Cash, No Alcohol Available, Credit Card, Dinner, Takeaway Available, Lunch, Indoor Seating, Wifi",3.5,Good,63,Casual Dining
+Hill Queen Restro Bar Cafe,Karanpur,"Cafe, North Indian",800,"Debit Card, Dinner, Takeaway Available, Serves Alcohol, Cash, Delivery, Credit Card, Lunch, Outdoor Seating, Live Sports Screening, Free Wifi, Indoor Seating, Fullbar, Smoking Area, Gastro Pub, Live Music, Wifi, Table Reservation Not Required",3.7,Good,64,Cafe
+Mirchillies,Subhash Nagar,"North Indian, Chinese, Mughlai",600,"Cash, Takeaway Available, Lunch, Delivery, No Alcohol Available, Dinner, Air Conditioned, Indoor Seating",3.8,Good,69,Casual Dining
+Lhasa Restaurant,Rajpur,"Chinese, Tibetan",500,"Dinner, Takeaway Available, Cash, Indoor Seating, Table Reservation Not Required",4,Very Good,63,Casual Dining
+Doon Tripple nine,Kaonli,"North Indian, Chinese",600,"Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned",3.8,Good,75,Casual Dining
+Sagar Ratna,Jakhan,South Indian,500,"Lunch, Credit Card, Cash, Dinner, Takeaway Available, Debit Card, Indoor Seating, Pure Veg, Air Conditioned",3.7,Good,60,Casual Dining
+Reggae Chilli,Chironwali,"North Indian, Chinese, Italian, Fast Food",800,"Lunch, Cash, Credit Card, Dinner, Takeaway Available, Debit Card, Live Music, Indoor Seating",3.6,Good,58,Casual Dining
+Naveen Vegetarian,Ballupur,North Indian,500,"Dinner, Lunch, Air Conditioned, Pure Veg, Indoor Seating",3.6,Good,63,Casual Dining
+New Dana Pani Restaurant,Majra,"North Indian, Chinese",500,"Lunch, Cash, Credit Card, No Alcohol Available, Dinner, Delivery, Debit Card, Indoor Seating, Table booking recommended, Air Conditioned",3.7,Good,50,Casual Dining
+Lemon Chilli Family Restaurant,Race Course,North Indian,600,"Cash, Debit Card, Dinner, Delivery, Credit Card, Lunch, No Alcohol Available, Takeaway Available, Indoor Seating",3.8,Good,77,Casual Dining
+Paridhi Restaurant And Fast Food,Majra,"North Indian, Biryani, Fast Food, Chinese, Rolls, Momos",400,"Takeaway Available, Cash, Digital Payments Accepted",3.5,Good,45,Casual Dining
+Chanchal Restaurant,Dharampur,"Street Food, Mithai, Chinese, North Indian",550,"Delivery, Debit Card, Dinner, Takeaway Available, Credit Card, Lunch, Cash, Pure Veg, Indoor Seating, Air Conditioned, Desserts and Bakes, Digital Payments Accepted",3.6,Good,77,Sweet Shop
+Mulberry Woods Cafe Restro,Kaonli,"Chinese, North Indian, Lebanese",300,"No Alcohol Available, Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Outdoor Seating, Indoor Seating",3.4,Average,43,Casual Dining
+Lhasa Tibet Kitchen,Rajpur,"Chinese, Tibetan",500,"Takeaway Available, Lunch, Cash, Dinner, Indoor Seating, Outdoor Seating, Table Reservation Not Required",3.9,Good,37,Casual Dining
+Dehra Darbar Restaurant,Dharampur,"North Indian, Biryani",500,"Dinner, Cash, Takeaway Available, Lunch, Delivery, Indoor Seating, Air Conditioned",3.5,Good,53,Casual Dining
+Table 99,Chironwali,"North Indian, Chinese, Continental",500,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Indoor Seating, Outdoor Seating, Air Conditioned",3.6,Good,57,Casual Dining
+Gazebo Restaurant & Party Lawn,Rajpur,"North Indian, Chinese, Continental, Mughlai",800,"Credit Card, Breakfast, Cash, No Alcohol Available, Delivery, Lunch, Takeaway Available, Dinner, Digital Payments Accepted, Valet Parking Available, Outdoor Seating, Smoking Area, Wheelchair Accessible, Indoor Seating, Live Sports Screening, Air Conditioned",3.6,Good,32,Casual Dining
+Greens Dine Leisure Point,Prem Nagar,"North Indian, Chinese",550,"Dinner, Cash, Delivery, Breakfast, No Alcohol Available, Lunch, Credit Card, Takeaway Available, Indoor Seating, Outdoor Seating, Air Conditioned",3.7,Good,44,Casual Dining
+Ginger and Grape,Chukkuwala,"North Indian, Chinese",800,"Takeaway Available, Cash, Lunch, Debit Card, Serves Alcohol, Dinner, Credit Card, Indoor Seating, Nightlife, DJ, Digital Payments Accepted, Axis Bank - Dining Delights, Above 18 Only, Air Conditioned, Fullbar",3.6,Good,42,Casual Dining
+Bristal Bar,Krishna Nagar,Finger Food,600,"Serves Alcohol, Takeaway Available, Cash, Credit Card, Debit Card, Air Conditioned, Indoor Seating, Above 18 Only, Nightlife, DJ, Fullbar",3.4,Average,21,Bar
+White Biergarten,Krishna Nagar,"Bar Food, Fast Food",600,"Delivery, Dinner, Cash, Credit Card, Lunch, Serves Alcohol, Takeaway Available, Debit Card, Indoor Seating, Table booking recommended, Fullbar",3.4,Average,13,Bar
+Sapphire,Majra,"North Indian, Chinese, Continental",700,"Lunch, Credit Card, Dinner, Delivery, Breakfast, Fullbar, Air Conditioned, Smoking Area, Indoor Seating, Table Reservation Not Required",3.4,Average,14,Bar
+Polo Bar,"Hotel President, Karanpur",Finger Food,800,"Lunch, Cash, Credit Card, Dinner, Debit Card, Serves Alcohol, Nightlife, Fullbar, Indoor Seating, Air Conditioned, Serves Cocktails, Wifi",3.2,Average,13,Bar
+Flavours Bar - Hotel Doon Castle,"Hotel Doon Castle, Kaonli",Finger Food,800,"Credit Card, Serves Alcohol, Air Conditioned, Fullbar, Indoor Seating, Wifi, Nightlife",3.4,Average,10,Bar
+The Old Republic,Hathibarkala Salwala,"Finger Food, North Indian",800,"Dinner, Takeaway Available, Debit Card, Delivery, Serves Alcohol, Lunch, Cash, Credit Card, Indoor Seating, Smoking Area, DJ, Fullbar",3.1,Average,5,Casual Dining
+Hotel Gaurab Restaurant,"Hotel Gaurab, Paltan Bazaar",Finger Food,700,"Dinner, Credit Card, Serves Alcohol, Takeaway Available, Cash, Lunch, Debit Card, Fullbar, Nightlife, Indoor Seating, Air Conditioned, Above 18 Only, Live Sports Screening",0,Not rated,3,Bar
+The Lantern,Malsi,"Indian, Chinese, Continental",500,"Credit Card, Dinner, Lunch, Serves Alcohol, Outdoor Seating",0,Not rated,3,Casual Dining
+Madhumati Bar - Hotel Saurab,"Hotel Saurab, Paltan Bazaar",Drinks Only,500,"Serves Alcohol, Credit Card, Dinner, Cash, Lunch, Debit Card, Nightlife, Air Conditioned, Indoor Seating, Wifi, Outdoor Seating, Fullbar, Smoking Area",0,Not rated,3,Bar
+The Fusion Destino,Dharampur,North Indian,700,"Takeaway Available, Debit Card, Dinner, Cash, Credit Card, Lunch, Air Conditioned, Indoor Seating, Digital Payments Accepted",0,Not rated,0,Casual Dining
+Trishna Bar,Paltan Bazaar,Finger Food,600,"Cash, Credit Card, Debit Card, Above 18 Only, Air Conditioned, Live Sports Screening, Indoor Seating, Fullbar",0,Not rated,0,Quick Bites
+Anghithi Hot Drive,Dharampur,"Fast Food, North Indian",200,"Takeaway Available, Cash, Delivery, Digital Payments Accepted",3.8,Good,123,Quick Bites
+Auntys Kitchen,Jakhan,"North Indian, Healthy Food",250,"Dinner, Delivery, Lunch, Cash, Takeaway Available, Indoor Seating",3.9,Good,152,Quick Bites
+Standard Bakers & Fast Food,Garhi Cantt,"Bakery, Fast Food",200,"No Alcohol Available, Cash, Takeaway Available, Debit Card, Delivery, Credit Card, Free Parking, Indoor Seating, Digital Payments Accepted, Desserts and Bakes",3.8,Good,75,Bakery
+Nostalgia,Krishna Nagar,"North Indian, Chinese, Desserts, Indian, Italian, Continental, European",500,"Lunch, Takeaway Available, Debit Card, Dinner, Cash, Delivery, Credit Card, Outdoor Seating, Air Conditioned, Smoking Area, Indoor Seating",4,Very Good,76,Quick Bites
+Doon Mughlai - A Family Restaurant,Chukkuwala,"Fast Food, Bakery, North Indian",200,"Dinner, Delivery, Credit Card, Debit Card, No Alcohol Available, Lunch, Cash, Takeaway Available, Breakfast, Air Conditioned, Free Parking, Digital Payments Accepted, Desserts and Bakes, Indoor Seating",3.4,Average,67,Bakery
+New Jassi Restaurant,Race Course,"North Indian, Chinese",400,"Dinner, Cash, Debit Card, Lunch, Delivery, Indoor Seating, Air Conditioned, Digital Payments Accepted, Table Reservation Not Required",3.8,Good,89,Quick Bites
+Punjabi Foods,Hathibarkala Salwala,"Indian, Mughlai, Chinese",200,"Dinner, Cash, Debit Card, Lunch, Credit Card, No Alcohol Available, Delivery, Air Conditioned, Digital Payments Accepted, Indoor Seating",3.4,Average,106,Quick Bites
+Alis Non Vegetarian Restaurant,Karanpur,North Indian,500,"No Alcohol Available, Cash, Debit Card, Dinner, Takeaway Available, Credit Card, Lunch, Indoor Seating, Free Parking, Digital Payments Accepted",3.6,Good,128,Quick Bites
+Hunger Bell,Paltan Bazaar,"Chinese, North Indian, Ice Cream",300,"Cash, Takeaway Available, No Alcohol Available, Dinner, Breakfast, Lunch, Indoor Seating",3.8,Good,77,Quick Bites
+The Kebabs & Biryani,Jakhan,"North Indian, Biryani",450,"Delivery, No Alcohol Available, Cash, Debit Card, Lunch, Takeaway Available, Credit Card, Dinner, Indoor Seating, Air Conditioned, Free Parking, Digital Payments Accepted",3.6,Good,94,Quick Bites
+Subway,"Pacific Mall, Jakhan","Fast Food, Healthy Food, Sandwich, Salad",500,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Mall Parking, Delivery, Credit Card, Outdoor Seating, Digital Payments Accepted",3.8,Good,87,Quick Bites
+Pizza Italia,Subhash Nagar,"Pizza, Italian",200,"Delivery, Dinner, Cash, Takeaway Available, Lunch, Indoor Seating",3.8,Good,61,Quick Bites
+Ohh My Food,Prem Nagar,Fast Food,250,"No Alcohol Available, Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Free Parking, Outdoor Seating, Digital Payments Accepted",3.4,Average,58,Quick Bites
+Kolkatas Lazeez Kathi Rolls,Paltan Bazaar,"North Indian, Rolls",250,"Delivery, Dinner, Cash, Lunch, Takeaway Available, Indoor Seating",3.5,Good,79,Quick Bites
+Subway,Ballupur,"Fast Food, Healthy Food, Sandwich, Salad",500,"Dinner, Delivery, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Outdoor Seating, Digital Payments Accepted",3.9,Good,74,Quick Bites
+Grill Zone,Subhash Nagar,"South Indian, Continental, Bakery, Ice Cream",250,"Cash, No Alcohol Available, Delivery, Credit Card, Takeaway Available, Dinner, Indoor Seating, Digital Payments Accepted",3.6,Good,70,Quick Bites
+Guts & Glory Cafe & Restro,Malsi,"Cafe, Fast Food, North Indian, Chinese",600,"Debit Card, Dinner, Takeaway Available, Credit Card, Lunch, Cash, Delivery, Outdoor Seating, Digital Payments Accepted, Smoking Area, Free Wifi",3.8,Good,32,Cafe
+Chicago Pizza,Hathibarkala Salwala,"Pizza, Italian, Continental, Fast Food",600,"Takeaway Available, Cash, No Alcohol Available, Credit Card, Lunch, Delivery, Dinner, Indoor Seating, Free Parking",3.5,Good,61,Quick Bites
+Kathi Express,Jakhan,"Rolls, Fast Food",350,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Outdoor Seating, Free Parking, Digital Payments Accepted",3.7,Good,85,Quick Bites
+Sethis Food Corner,Paltan Bazaar,Fast Food,350,"Cash, Takeaway Available, No Alcohol Available, Air Conditioned, Indoor Seating",3.9,Good,101,Quick Bites
+Amritsari Express,"Pacific Mall, Jakhan",North Indian,750,"Lunch, Cash, Credit Card, Takeaway Available, No Alcohol Available, Debit Card, Dinner, Mall Parking, Air Conditioned, Indoor Seating, Pure Veg",3.8,Good,93,Quick Bites
+Punjabi Dhaba,Paltan Bazaar,"North Indian, Chinese",300,"Takeaway Available, Lunch, Delivery, No Alcohol Available, Cash, Dinner, Indoor Seating, Free Parking, Digital Payments Accepted",3.6,Good,55,Quick Bites
+Karishma Foods,Dharampur,"North Indian, Chinese",350,"Lunch, No Alcohol Available, Cash, Dinner, Takeaway Available, Indoor Seating",3.6,Good,59,Quick Bites
+Chatar Patar,Hathibarkala Salwala,"Fast Food, Street Food, Momos",400,"Cash, Takeaway Available, Credit Card, Lunch, Debit Card, Dinner, Delivery, No Alcohol Available, Indoor Seating, Free Parking, Digital Payments Accepted",3.8,Good,79,Quick Bites
+Chilliz Premium,Dharampur,"Fast Food, North Indian, Chinese",300,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Indoor Seating, Digital Payments Accepted, Air Conditioned",3.7,Good,51,Quick Bites
+Patiala Lassi Bar,Jakhan,"Fast Food, Beverages",200,"Takeaway Available, Cash, No Alcohol Available, No Seating Available, Digital Payments Accepted",4,Very Good,74,Beverage Shop
+Oggy & Dobby Cafe,Jakhan,Fast Food,250,"Dinner, Cash, Takeaway Available, Debit Card, No Alcohol Available, Lunch, Delivery, Credit Card, Outdoor Seating, Digital Payments Accepted, Indoor Seating",3.4,Average,50,Quick Bites
+The Taco Bahl Restaurant,Kaonli,"North Indian, Chinese",350,"Lunch, Cash, Breakfast, No Alcohol Available, Dinner, Takeaway Available, Outdoor Seating",3.7,Good,68,Quick Bites
+Doonites Cafe,Subhash Nagar,"Chinese, Continental",500,"Lunch, Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Indoor Seating",3.6,Good,36,Quick Bites
+The Connoisseur,Malsi,"Chinese, Indian, North Indian, Mughlai",700,"Cash, Delivery, No Alcohol Available, Dinner, Takeaway Available, Lunch, Outdoor Seating, Free Parking, Self Service",3.9,Good,49,Quick Bites
+Yo Tibet,Garhi Cantt,"Tibetan, Continental, Beverages",600,"Dinner, Delivery, Lunch, Cash, Takeaway Available, Indoor Seating",3.5,Good,44,Quick Bites
+Shi-Wu Corner,Dharampur,"Chinese, North Indian",500,"Cash, Delivery, Lunch, Takeaway Available, Dinner, Indoor Seating",3.6,Good,54,Quick Bites
+NEGIs Restro,Prem Nagar,North Indian,200,"Takeaway Available, Lunch, Cash, Dinner, Delivery, Outdoor Seating, Indoor Seating",3.5,Good,23,Quick Bites
+Rajdhani Restaurant,Balliwala,"North Indian, Chinese",600,"No Alcohol Available, Credit Card, Cash, Lunch, Breakfast, Takeaway Available, Debit Card, Dinner, Indoor Seating, Free Parking, Digital Payments Accepted",3.8,Good,56,Quick Bites
+Baskin Robbins Ice Cream,Karanpur,"Ice Cream, Beverages",300,"No Seating Available, Cash, Debit Card, Takeaway Available, Credit Card, Pure Veg, Air Conditioned, Desserts and Bakes",3.8,Good,37,Dessert Parlour
+Bengali Sweet Shop,Chukkuwala,Mithai,250,"Takeaway Available, Delivery, Cash, No Alcohol Available, Dinner, Lunch, Desserts and Bakes, Indoor Seating, Pure Veg, Free Parking",3.7,Good,55,Dessert Parlour
+Waffle Hut,Jakhan,Desserts,300,"Delivery, Cash, Takeaway Available, Outdoor Seating, Desserts and Bakes",3.5,Good,12,Dessert Parlour
+Baskin Robbins Ice Cream,"Pacific Mall, Jakhan","Ice Cream, Beverages",300,"Cash, No Seating Available, Mall Parking, Credit Card, Takeaway Available, Debit Card, Pure Veg, Desserts and Bakes, Digital Payments Accepted",3.5,Good,25,Dessert Parlour
+Waffles World,Karanpur,Desserts,300,"Takeaway Available, No Alcohol Available, Debit Card, Cash, Credit Card, Desserts and Bakes, Digital Payments Accepted, Indoor Seating, Air Conditioned",3.6,Good,29,Dessert Parlour
+Scoops Ice Cream Cafe,Ballupur,"Ice Cream, Beverages, Fast Food",300,"Takeaway Available, Cash, Breakfast, Credit Card, Lunch, Dinner, Debit Card, Free Parking, Desserts and Bakes, Indoor Seating, Pure Veg, Digital Payments Accepted",3.6,Good,26,Quick Bites
+Giani,Jakhan,"Ice Cream, Desserts",300,"Takeaway Available, Credit Card, Delivery, Cash, Debit Card, Indoor Seating, Digital Payments Accepted, Air Conditioned, Desserts and Bakes",3.5,Good,22,Dessert Parlour
+Uniyal Bakers,Dharampur,"Bakery, Desserts",200,"Takeaway Available, Credit Card, Cash, Debit Card, Indoor Seating, Air Conditioned, Desserts and Bakes",3.5,Good,27,Bakery
+Tit Bits Bakers,Balliwala,"Fast Food, Desserts, Bakery",250,"Takeaway Available, Cash, Delivery, Credit Card, Debit Card, Indoor Seating, Digital Payments Accepted, Desserts and Bakes, Air Conditioned",3.4,Average,20,Quick Bites
+Giani,Ballupur,"Ice Cream, Beverages",350,"Credit Card, Delivery, Cash, Debit Card, Takeaway Available, Indoor Seating",3.5,Good,13,Dessert Parlour
+Ellora Homeaids,Chukkuwala,"Fast Food, Desserts, Bakery",300,"Debit Card, Cash, Credit Card, Takeaway Available, Delivery, Desserts and Bakes, Pre-Ordering Required, Air Conditioned, Indoor Seating, Digital Payments Accepted",3.2,Average,10,Bakery
+Bake My Way,Race Course,"Bakery, Desserts",400,"Delivery, No Seating Available, Cash, Takeaway Available, Pre-Ordering Required, Digital Payments Accepted, Desserts and Bakes",3.7,Good,15,Dessert Parlour
+Rajmithas,Malsi,"Ice Cream, Mithai",300,"Takeaway Available, Cash, Indoor Seating, Pure Veg, Desserts and Bakes",3.3,Average,14,Dessert Parlour
+Mast Banarasi Paan Dehradun,Jakhan,Desserts,250,"Cash, Takeaway Available, Debit Card, Desserts and Bakes, Pure Veg, Free Parking, Indoor Seating",3.3,Average,13,Dessert Parlour
+Giani,Hathibarkala Salwala,Ice Cream,350,"Credit Card, Debit Card, Takeaway Available, Cash, Indoor Seating, Air Conditioned, Pure Veg, Outdoor Seating, Digital Payments Accepted, Desserts and Bakes",3.3,Average,12,Dessert Parlour
+Giani,Rajpur,"Ice Cream, Desserts",300,"Delivery, Credit Card, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned, Desserts and Bakes, Digital Payments Accepted",3,Average,5,Dessert Parlour
+Vadilal Scoop Shop,Garhi Cantt,"Fast Food, Desserts, Ice Cream",200,"Cash, Takeaway Available, Air Conditioned, Indoor Seating, Desserts and Bakes",3.2,Average,7,Dessert Parlour
+Bakers House,Dharampur,"Fast Food, Desserts, Bakery",250,"Takeaway Available, Cash, Indoor Seating, Desserts and Bakes, Pre-Ordering Required, Air Conditioned, Digital Payments Accepted",3.2,Average,16,Quick Bites
+Standard Bakers & Fast Food,Balliwala,"Desserts, Bakery",300,"No Seating Available, Takeaway Available, Delivery, Cash, Digital Payments Accepted, Pre-Ordering Required, Air Conditioned, Desserts and Bakes",3.2,Average,8,Quick Bites
+Janta Bakers,Chukkuwala,"Fast Food, Desserts, Bakery",250,"Takeaway Available, Credit Card, Delivery, Debit Card, Cash, Indoor Seating, Air Conditioned, Digital Payments Accepted, Desserts and Bakes, Pre-Ordering Required, Pure Veg",3.1,Average,6,Dessert Parlour
+Reeta Ice Cream,Race Course,Ice Cream,200,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Digital Payments Accepted",0,Not rated,0,Dessert Parlour
+Satpal Bakers,Garhi Cantt,"Desserts, Bakery",250,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes",0,Not rated,2,Dessert Parlour
+Chocolate Fountain,"Pacific Mall, Jakhan","Ice Cream, Desserts",200,"Takeaway Available, Cash, Debit Card, Credit Card, Mall Parking, Indoor Seating, Air Conditioned, Desserts and Bakes",0,Not rated,1,Food Court
+Bun & Bread,Subhash Nagar,Desserts,200,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes",0,Not rated,2,Dessert Parlour
+The Perfect Rolls,Karanpur,"Desserts, Ice Cream",200,"Cash, No Alcohol Available, Takeaway Available, No Seating Available, Desserts and Bakes",0,Not rated,3,Dessert Parlour
+Amul Ice Cream Parlour,Krishna Nagar,Ice Cream,200,"No Seating Available, Debit Card, Takeaway Available, Cash, Credit Card, Air Conditioned, Desserts and Bakes",0,Not rated,2,Dessert Parlour
+Gianis,"Pacific Mall, Jakhan","Ice Cream, Desserts",150,"Cash, Credit Card, Delivery, Indoor Seating, Air Conditioned, Desserts and Bakes",0,Not rated,0,Dessert Parlour
+Softy Corner,Morowala,Ice Cream,500,"Delivery, Cash, Takeaway Available, Indoor Seating, Air Conditioned, Desserts and Bakes, Digital Payments Accepted",0,Not rated,0,Dessert Parlour
+Standard Icecream,Prem Nagar,Ice Cream,200,"Takeaway Available, Credit Card, Cash, Debit Card, Indoor Seating, Desserts and Bakes, Pure Veg",0,Not rated,1,Dessert Parlour
+Bean Berry Coffee,"Pacific Mall, Jakhan","Fast Food, Desserts",300,"Debit Card, Lunch, Credit Card, Mall Parking, Cash, Takeaway Available, Dinner, Indoor Seating, Self Service, Air Conditioned, Desserts and Bakes",0,Not rated,1,Food Court
+Flavour Bakers,Garhi Cantt,"Fast Food, Desserts, Bakery",150,"Takeaway Available, Cash, Pure Veg",0,Not rated,1,Bakery
+Aggarwal Store,Garhi Cantt,"Desserts, Bakery",350,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Digital Payments Accepted",0,Not rated,1,Dessert Parlour
+Baskin Robbins Ice Cream,Kaonli,"Ice Cream, Beverages",300,"No Seating Available, Cash, Debit Card, Takeaway Available, Credit Card, Pure Veg, Air Conditioned, Desserts and Bakes",0,Not rated,0,Dessert Parlour
+Nitrogen Ice Cream Lab,Race Course,Ice Cream,200,"Takeaway Available, Debit Card, Cash, Credit Card, Outdoor Seating, Desserts and Bakes",0,Not rated,0,Dessert Parlour
+Kumar Sweet Shop,Dharampur,"South Indian, North Indian, Chinese, Mithai, Street Food",250,"Debit Card, Dinner, Takeaway Available, Cash, Credit Card, Lunch, Indoor Seating, Air Conditioned, Digital Payments Accepted, Desserts and Bakes",3.5,Good,35,Quick Bites
+Gulab Sweets & Restaurants,Dharampur,"Mithai, North Indian",400,"Lunch, Delivery, Credit Card, Debit Card, No Alcohol Available, Dinner, Cash, Takeaway Available, Breakfast, Indoor Seating, Air Conditioned, Desserts and Bakes",3.5,Good,42,Sweet Shop
+New Anchal Sweets & Dairy,Dharampur,"Mithai, Fast Food, Street Food, Momos",200,"Credit Card, Takeaway Available, Dinner, No Alcohol Available, Cash, Debit Card, Lunch, Indoor Seating, Pure Veg, Free Parking, Digital Payments Accepted, Air Conditioned, Desserts and Bakes",3.7,Good,53,Quick Bites
+Vaibhav Sweets,Balliwala,"Street Food, Mithai",250,"No Seating Available, Takeaway Available, Cash, Pure Veg, Desserts and Bakes, Digital Payments Accepted",3.5,Good,14,Quick Bites
+Ahujas,Dharampur,"Mithai, South Indian",300,"Cash, Takeaway Available, Pure Veg",3.4,Average,26,Sweet Shop
+Gurukripa Sweets,Dharampur,"Mithai, Street Food",300,"Delivery, Credit Card, Cash, Takeaway Available, Debit Card, Indoor Seating, Air Conditioned, Digital Payments Accepted",3.4,Average,6,Sweet Shop
+Bhatia Sweet House,Prem Nagar,"Street Food, Mithai",200,"Takeaway Available, Cash, No Seating Available, Desserts and Bakes, Pure Veg, Digital Payments Accepted",3.2,Average,6,Sweet Shop
+Gulab Sweets & Restaurant,Ballupur,"North Indian, Street Food, Chinese, South Indian",600,"Dinner, Takeaway Available, Cash, Lunch, Indoor Seating, Pure Veg, All Day Breakfast",3.3,Average,14,Quick Bites
+Sunil Sweet Shop,Dharampur,"Street Food, Mithai",150,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Digital Payments Accepted",3.3,Average,11,Quick Bites
+Kumar Sweets and Restaurant,Chironwali,"North Indian, South Indian, Chinese, Mithai",450,"Cash, Lunch, Delivery, Credit Card, Dinner, Takeaway Available, Pure Veg, Indoor Seating",3.1,Average,7,Quick Bites
+New Gupta Sweets Shop,Morowala,North Indian,200,"Lunch, Takeaway Available, Dinner, Cash, Desserts and Bakes, Indoor Seating, All Day Breakfast, Pure Veg",3.2,Average,6,Dhaba
+Rahul Sweets,Dharampur,"Street Food, Mithai",250,"Takeaway Available, Cash, Indoor Seating, Pure Veg, Desserts and Bakes",3.4,Average,15,Quick Bites
+Bhatia Sweet House,Prem Nagar,"Desserts, Bakery, Mithai",250,"Takeaway Available, Cash, No Alcohol Available, No Seating Available, Desserts and Bakes, Digital Payments Accepted, Pure Veg",3.1,Average,8,Bakery
+Anandam,Malsi,"Desserts, North Indian, Chinese, South Indian, Fast Food, Street Food",650,"Dinner, Cash, Credit Card, Debit Card, Lunch, Breakfast, Indoor Seating, Air Conditioned, Pure Veg",0,Not rated,2,Casual Dining
+Brij Sweets,Garhi Cantt,"Street Food, Mithai",200,"Takeaway Available, Dinner, Delivery, Cash, Lunch, Breakfast, Indoor Seating, Pure Veg",3.3,Average,8,Sweet Shop
+New Kamal Dairy,Garhi Cantt,"Mithai, Street Food",200,"No Seating Available, Takeaway Available, Cash, Desserts and Bakes",0,Not rated,2,Sweet Shop
+New Bhatia Sweet Shop,Prem Nagar,"Street Food, Mithai",150,"Takeaway Available, Cash, Indoor Seating, Pure Veg, Desserts and Bakes",3,Average,4,Sweet Shop
+Globe Bakers,Race Course,Bakery,200,"Credit Card, Takeaway Available, No Seating Available, Lunch, Dinner, Cash, Debit Card, Digital Payments Accepted",3.2,Average,5,Bakery
+Doon Barfi,Jakhan,"Street Food, Mithai",150,"No Seating Available, Cash, Debit Card, Takeaway Available, Credit Card, Air Conditioned, Pure Veg, Desserts and Bakes",0,Not rated,3,Sweet Shop
+Madhu Sweet Shop,Kaonli,Mithai,250,"No Seating Available, Takeaway Available, Cash, Desserts and Bakes, Pure Veg",0,Not rated,2,Sweet Shop
+Priy Bhog Sweets and Namkeen,Balliwala,"Mithai, Street Food",300,"No Seating Available, Takeaway Available, Cash, Desserts and Bakes, Pure Veg",0,Not rated,1,Sweet Shop
+Aggarwal Sweets,Majra,"Mithai, Street Food",150,"Lunch, Breakfast, Takeaway Available, Cash, Dinner, Indoor Seating, Pure Veg",0,Not rated,1,Sweet Shop
+Bhatia Sweet Shop,Prem Nagar,"Street Food, Mithai",250,"No Seating Available, Takeaway Available, Cash, Pure Veg, Digital Payments Accepted, Desserts and Bakes",0,Not rated,1,Sweet Shop
+Rajender Sweet Shop,Hathibarkala Salwala,Mithai,200,"Lunch, Breakfast, Takeaway Available, Cash, Dinner, Indoor Seating, Pure Veg",0,Not rated,1,Sweet Shop
+Ghai Sweets,Prem Nagar,"Street Food, Mithai",250,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Pure Veg",0,Not rated,1,Sweet Shop
+Vishal Dairy,Krishna Nagar,"Mithai, Street Food",250,"No Seating Available, Dinner, Takeaway Available, Cash, Lunch, Pure Veg",0,Not rated,1,Sweet Shop
+Pramod Sweets,Dharampur,"Street Food, Mithai",150,"Takeaway Available, Cash, Indoor Seating, Pure Veg, Desserts and Bakes",0,Not rated,0,Quick Bites
+Taneja Sweet Shop,Prem Nagar,"Street Food, Mithai",150,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes",0,Not rated,0,Sweet Shop
+Santosh Sweet Shop,Balliwala,"Street Food, Mithai",0,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes, Pure Veg",0,Not rated,0,Quick Bites
+Taneja Sweet Shop,Prem Nagar,Mithai,200,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes, Pure Veg",0,Not rated,0,Sweet Shop
+The V Cafe,Hathibarkala Salwala,"Cafe, Fast Food",450,"Dinner, Delivery, Takeaway Available, Debit Card, Credit Card, Cash, No Alcohol Available, Lunch, Air Conditioned, Table Reservation Not Required, Free Wifi, Indoor Seating, Digital Payments Accepted",4,Very Good,139,Cafe
+Chhaya Cafe,Rajpur,"Cafe, Chinese, Continental, North Indian",500,"Lunch, Takeaway Available, No Alcohol Available, Dinner, Cash, Credit Card, Debit Card, Board Games, Indoor Seating, Free Wifi, Digital Payments Accepted, Pet Friendly, All Day Breakfast, Table booking recommended, Outdoor Seating, Wifi",3.7,Good,110,Cafe
+VUE,Jakhan,"Italian, Continental, Cafe",650,"No Alcohol Available, Credit Card, Debit Card, Dinner, Takeaway Available, Cash, Lunch, Indoor Seating, Air Conditioned, Outdoor Seating, Digital Payments Accepted",3.7,Good,77,Cafe
+Hungry Hobbit Coffee House,Subhash Nagar,"Cafe, Continental",500,"Lunch, Cash, Takeaway Available, Breakfast, No Alcohol Available, Dinner, Delivery, Credit Card, Indoor Seating",3.7,Good,95,Cafe
+Dehra Kettle,Jogiwala,"Cafe, Fast Food",250,"Lunch, Cash, Breakfast, No Alcohol Available, Dinner, Live Music, Free Parking, Indoor Seating, Outdoor Seating",3.7,Good,74,Cafe
+Cafe Lychee Tree,Dharampur,"Chinese, North Indian, Beverages, Desserts",500,"Lunch, Takeaway Available, Delivery, Dinner, Cash, Live Music, Air Conditioned, Indoor Seating",3.7,Good,111,Cafe
+Monkey Fist Cafe,Chironwali,"Cafe, Fast Food",400,"Takeaway Available, Dinner, Delivery, Cash, Lunch, No Alcohol Available, Outdoor Seating, Digital Payments Accepted, Indoor Seating",3.9,Good,106,Cafe
+Beans & Cream Cafe & Lounge,Garhi Cantt,"Cafe, Italian, Continental",500,"Takeaway Available, Dinner, Delivery, No Alcohol Available, Cash, Lunch, Outdoor Seating, Desserts and Bakes, Indoor Seating, Air Conditioned",3.9,Good,116,Cafe
+Cafe NH 72,Prem Nagar,"Cafe, Beverages",800,"Dinner, Cash, Credit Card, Lunch, Takeaway Available, Debit Card, Indoor Seating, Desserts and Bakes, Air Conditioned",3.5,Good,70,Cafe
+Woods Grill Lounge & Cafe,Dharampur,"Cafe, Continental, Chinese, North Indian, Italian",800,"No Alcohol Available, Takeaway Available, Credit Card, Cash, Dinner, Lunch, Delivery, Debit Card, Serves Alcohol, Table booking recommended, Rooftop, Air Conditioned, Digital Payments Accepted, Live Sports Screening, Karaoke, Indoor Seating, Smoking Area, Free Wifi, Live Music",3.3,Average,84,Cafe
+Zomsa Cafe,Malsi,Cafe,500,"Dinner, Takeaway Available, Lunch, Cash, No Alcohol Available, Indoor Seating, Desserts and Bakes, Outdoor Seating, Table Reservation Not Required",3.8,Good,48,Cafe
+Farm to Fork Cafe,Malsi,"Cafe, Indian, Chinese, Continental, Mexican",550,"Credit Card, Lunch, No Alcohol Available, Cash, Debit Card, Dinner, Takeaway Available, Indoor Seating, Outdoor Seating",3.7,Good,61,Cafe
+Cafe Monroe,Chironwali,Cafe,800,"Takeaway Available, No Alcohol Available, Credit Card, Dinner, Cash, Debit Card, Lunch, Delivery, Indoor Seating, Outdoor Seating, Digital Payments Accepted, Rooftop, Smoking Area, Free Wifi, Desserts and Bakes",3.4,Average,51,Quick Bites
+Cafe Doonga Central,Karanpur,Cafe,300,"Dinner, Takeaway Available, No Alcohol Available, Lunch, Cash, Breakfast, Outdoor Seating, Indoor Seating",3.5,Good,24,Cafe
+Cafe Coffee Day Lounge,Jakhan,"Beverages, Cafe, Sandwich, Fast Food",500,"Takeaway Available, Debit Card, Lunch, Credit Card, No Alcohol Available, Cash, Dinner, Indoor Seating, Digital Payments Accepted, Free Wifi, Air Conditioned, Desserts and Bakes",3.8,Good,46,Cafe
+H.U.H Hold Ur Hunger,Subhash Nagar,Cafe,500,"Dinner, Delivery, Takeaway Available, Breakfast, Lunch, Cash, No Alcohol Available, Air Conditioned, Free Wifi, Outdoor Seating, Table Reservation Not Required, Digital Payments Accepted, Pure Veg, Indoor Seating",3.5,Good,35,Cafe
+Barista,Chukkuwala,Cafe,600,"Cash, Credit Card, Debit Card, Lunch, Dinner, Takeaway Available, Breakfast, No Alcohol Available, Air Conditioned, Indoor Seating, Axis Bank - Dining Delights",3.6,Good,43,Cafe
+Cafe Coffee Day,Ballupur,"Desserts, Beverages, Cafe, Fast Food, Sandwich",500,"Takeaway Available, No Alcohol Available, Cash, Credit Card, Desserts and Bakes, Indoor Seating, Air Conditioned",3.4,Average,34,Cafe
+Hi LIfe Cafe,Rajpur,Cafe,400,"Takeaway Available, Cash, Dinner, Lunch, No Alcohol Available, Table Reservation Not Required, Indoor Seating",3.8,Good,40,Cafe
+Cafe Coffee Day,Karanpur,"Beverages, Cafe, Sandwich, Fast Food",500,"Lunch, Takeaway Available, Breakfast, No Alcohol Available, Dinner, Cash, Credit Card, Debit Card, Indoor Seating, Free Wifi, Air Conditioned, Desserts and Bakes, Digital Payments Accepted",3.5,Good,21,Cafe
+Cafe Coffee Day,Race Course,"Beverages, Cafe, Sandwich, Fast Food",500,"Lunch, Credit Card, Dinner, Takeaway Available, Breakfast, Air Conditioned, Desserts and Bakes, Indoor Seating",3.8,Good,39,Cafe
+Tantrum Cafe,Race Course,Cafe,400,"Dinner, Cash, Debit Card, Delivery, No Alcohol Available, Lunch, Credit Card, Takeaway Available, Pure Veg, Sodexo, Indoor Seating",3.6,Good,28,Cafe
+Cafe Coffee Day,Chironwali,"Beverages, Cafe, Sandwich, Fast Food",500,"Lunch, Cash, Breakfast, No Alcohol Available, Dinner, Credit Card, Debit Card, Indoor Seating, Air Conditioned, Desserts and Bakes, Table Reservation Not Required",3.5,Good,19,Cafe
+Stranger Cafe,"Ashok Spa & Resorts, Morowala",Cafe,300,"Cash, Takeaway Available, No Alcohol Available, Credit Card, Breakfast, Lunch, Valet Parking Available, Desserts and Bakes, Indoor Seating",3.6,Good,28,Cafe
+The Porch Cafe,Subhash Nagar,"Fast Food, Continental, Burger, Beverages",300,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",3.6,Good,17,Cafe
+Food Runner,Malsi,"Cafe, Japanese",800,"Credit Card, Dinner, Takeaway Available, Cash, Debit Card, Lunch, No Alcohol Available, Table Reservation Not Required, Digital Payments Accepted, Indoor Seating",3.7,Good,17,Cafe
+Silk Route Cafe,Rajpur,Cafe,200,"No Alcohol Available, Cash, Dinner, Lunch, Indoor Seating, Rooftop, Outdoor Seating, Table Reservation Not Required",3.6,Good,21,Cafe
+Hungry Cafe,Karanpur,Cafe,250,"Dinner, Cash, Delivery, Credit Card, Lunch, Takeaway Available, Debit Card, Indoor Seating, Digital Payments Accepted, Smoking Area",3.5,Good,16,Cafe
+PUBG Lounge & Cafe,Ballupur,"North Indian, Chinese",200,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",3,Average,8,Cafe
+Big Bros Cafe,Subhash Nagar,Cafe,400,"Lunch, Cash, No Alcohol Available, Dinner, Takeaway Available, Indoor Seating",3.4,Average,23,Cafe
+Food Smugler,Prem Nagar,"Fast Food, Bakery",300,"Dinner, Takeaway Available, Lunch, Cash, Indoor Seating",3,Average,12,Quick Bites
+Cafe Sparrow,Chironwali,Cafe,450,"Cash, Breakfast, Lunch, Takeaway Available, No Alcohol Available, Dinner",3.3,Average,15,Cafe
+Cafe Broadstreet,Hathibarkala Salwala,"Cafe, Fast Food, Italian",800,"Cash, Dinner, Credit Card, No Alcohol Available, Lunch, Debit Card, Takeaway Available, Table Reservation Not Required, Air Conditioned, Indoor Seating, Digital Payments Accepted",3,Average,16,Cafe
+Cafe Coffee Day,Garhi Cantt,"Cafe, Desserts, Beverages, Sandwich",650,"Takeaway Available, No Alcohol Available, Credit Card, Lunch, Cash, Debit Card, Dinner, Indoor Seating, Desserts and Bakes, Outdoor Seating, Air Conditioned",3.5,Good,15,Cafe
+Lock Heart Restaurant & Cafe,Ballupur,"North Indian, Fast Food, Cafe, Chinese, Continental, Beverages",300,"Dinner, Delivery, Credit Card, Debit Card, Lunch, Cash, Takeaway Available, Indoor Seating, Buffet",3.2,Average,6,Casual Dining
+Barista,"Pacific Mall, Jakhan",Cafe,600,"Credit Card, Lunch, Cash, Debit Card, No Alcohol Available, Dinner, Mall Parking, Takeaway Available, Desserts and Bakes, Indoor Seating, Digital Payments Accepted, Axis Bank - Dining Delights, Outdoor Seating, Air Conditioned",3,Average,10,Cafe
+Cafe Coffee Day,Race Course,"Beverages, Cafe, Sandwich, Fast Food",500,"Takeaway Available, No Alcohol Available, Dinner, Cash, Lunch, Credit Card, Desserts and Bakes, Indoor Seating, Air Conditioned",3.2,Average,5,Cafe
+A Place Called Edina,Rajpur,Cafe,600,"Dinner, Takeaway Available, Debit Card, Lunch, Cash, Credit Card, Indoor Seating",3.3,Average,11,Cafe
+Toss Cafe Lounge,Chukkuwala,Cafe,800,"Lunch, Debit Card, Cash, Serves Alcohol, Takeaway Available, Dinner, Credit Card, Indoor Seating, Free Parking, Fullbar, Axis Bank - Dining Delights, Digital Payments Accepted, Rooftop, Nightlife",3.2,Average,12,Cafe
+Barista,Balliwala,Cafe,500,"Delivery, Credit Card, Debit Card, Breakfast, Takeaway Available, No Alcohol Available, Cash, Lunch, Dinner, Indoor Seating, Air Conditioned, Desserts and Bakes, Outdoor Seating, Digital Payments Accepted",3.5,Good,17,Cafe
+The Spot,Jakhan,"Italian, Chinese, Cafe",450,"Dinner, Takeaway Available, No Alcohol Available, Cash, Lunch, Indoor Seating, Air Conditioned, Free Wifi, Digital Payments Accepted, Hookah, Rooftop",3.3,Average,12,Cafe
+"Karan""s Cafe",Prem Nagar,"Fast Food, North Indian",300,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Buffet, Digital Payments Accepted",0,Not rated,1,Cafe
+Jessica Treats,Balliwala,Cafe,500,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Digital Payments Accepted",3.2,Average,8,Cafe
+The Wall Cafe,Jakhan,Cafe,500,"Cash, No Alcohol Available, Dinner, Takeaway Available, Lunch, Indoor Seating",3.2,Average,10,Cafe
+Bibas Cafe,Dharampur,Cafe,400,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Air Conditioned",0,Not rated,3,Cafe
+Cafe Earth,Chironwali,Cafe,500,"Dinner, Cash, Credit Card, Debit Card, Lunch, Takeaway Available, Breakfast, Indoor Seating, Air Conditioned",3.1,Average,5,Cafe
+Rangoli Restaurant and Cafe,Jakhan,"Cafe, Fast Food",350,"No Alcohol Available, Dinner, Cash, Takeaway Available, Credit Card, Debit Card, Lunch, Delivery, Breakfast, Outdoor Seating, Indoor Seating, Table Reservation Not Required, Pure Veg",3.1,Average,7,Cafe
+House Of Phirangi,Chukkuwala,Cafe,400,"Dinner, Cash, Lunch, Takeaway Available, Indoor Seating, Digital Payments Accepted",0,Not rated,1,Cafe
+Cafe Coffee Day,Malsi,"Beverages, Cafe, Sandwich, Fast Food",500,"Lunch, Cash, Breakfast, No Alcohol Available, Dinner, Credit Card, Debit Card, Indoor Seating, Air Conditioned, Desserts and Bakes, Table Reservation Not Required",0,Not rated,2,Cafe
+The Lost Chef Cafe,Karanpur,"Chinese, Coffee",300,"Lunch, Debit Card, No Alcohol Available, Dinner, Cash, Indoor Seating, Air Conditioned, Pure Veg, Brunch",0,Not rated,3,Cafe
+Cafe Vivers,Hathibarkala Salwala,Cafe,500,"Cash, Takeaway Available, Lunch, No Alcohol Available, Dinner, Indoor Seating",0,Not rated,2,Cafe
+UK07 Cafe & Lounge,Balliwala,Cafe,800,"Dinner, Cash, Debit Card, Lunch, Takeaway Available, Indoor Seating, Air Conditioned",3,Average,4,Cafe
+Cafe D Capella,Ballupur,Cafe,300,"Dinner, Lunch, Cash, Indoor Seating",0,Not rated,1,Cafe
+Uptown Cafe,Subhash Nagar,Cafe,500,"Lunch, Takeaway Available, No Alcohol Available, Dinner, Cash, Indoor Seating, Digital Payments Accepted",0,Not rated,3,Cafe
+Small Bite Fast Food Corner,Balliwala,"Burger, Cafe, Continental",200,"Lunch, Cash, Delivery, Dinner, Takeaway Available, Breakfast, Lunch Menu, Outdoor Seating, Digital Payments Accepted, All Day Breakfast, Free Parking, Indoor Seating, Drive in, Smoking Area",0,Not rated,3,Cafe
+Kings Harbor Restaurant And Lounge,Kaonli,North Indian,800,"Cash, Breakfast, Dinner, Takeaway Available, Outdoor Seating, Rooftop, Indoor Seating",3.3,Average,17,Lounge
+Wood Castle Restro & Lounge,Balliwala,Bar Food,800,"Takeaway Available, Lunch, Cash, Dinner, Table booking recommended, Air Conditioned, Hookah, DJ, Fullbar, Digital Payments Accepted, Smoking Area, Free Parking, Indoor Seating",0,Not rated,2,Lounge
+Fusion Night,Dharampur,Finger Food,700,"Dinner, Serves Alcohol, Cash, Lunch, Above 18 Only, Digital Payments Accepted, Indoor Seating, Fullbar, Hookah",0,Not rated,2,Lounge
+The Cake Room,Prem Nagar,"Desserts, Bakery",250,"Takeaway Available, Delivery, Cash, Indoor Seating, Air Conditioned, Digital Payments Accepted, Pre-Ordering Required, Desserts and Bakes",3.8,Good,64,Bakery
+Doon Bakers and Confectioners,Paltan Bazaar,"Bakery, Desserts, Fast Food",200,"Delivery, Cash, Takeaway Available, Desserts and Bakes",3.5,Good,30,Bakery
+Perfect Cravings,Paltan Bazaar,"Bakery, Desserts",250,"Cash, Takeaway Available, No Seating Available, Delivery, Desserts and Bakes",3.8,Good,32,Bakery
+Standard Bakers,Jakhan,"Bakery, Fast Food",200,"Cash, Takeaway Available, Debit Card, No Alcohol Available, Delivery, Credit Card, Outdoor Seating, Air Conditioned, Desserts and Bakes, Indoor Seating",3.7,Good,42,Bakery
+Kuks N Bakes,Subhash Nagar,Bakery,400,"Cash, Delivery, Takeaway Available, Desserts and Bakes, Indoor Seating",3.4,Average,14,Bakery
+Grand Bakers & Confectioners,Race Course,"Bakery, Chinese, Fast Food, Momos",200,"Cash, Debit Card, Takeaway Available, Credit Card, Delivery, Desserts and Bakes, Indoor Seating, Digital Payments Accepted, Air Conditioned",3.7,Good,34,Bakery
+Vikas Bakers & Confectioners,Race Course,Bakery,400,"Delivery, No Seating Available, Cash, Takeaway Available, Self Service, Indoor Seating, Pure Veg",3.1,Average,4,Bakery
+Elloras,Prem Nagar,"Desserts, Bakery",300,"Debit Card, Cash, No Seating Available, Credit Card, Takeaway Available, Desserts and Bakes, Digital Payments Accepted, Air Conditioned, Pre-Ordering Required",3.5,Good,25,Bakery
+Cravity,Majra,Bakery,200,"Delivery, Cash, Digital Payments Accepted, Desserts and Bakes",3.6,Good,19,Bakery
+Opees Bakers,Hathibarkala Salwala,"Bakery, Fast Food",200,"Credit Card, Takeaway Available, No Alcohol Available, Cash, Delivery, Debit Card, Desserts and Bakes, Digital Payments Accepted, Indoor Seating, Free Parking",3.5,Good,30,Quick Bites
+Delight Bakers,Race Course,Bakery,200,"Takeaway Available, Cash, Indoor Seating, Desserts and Bakes",3.4,Average,29,Bakery
+The Oven Bakery,Dharampur,"Bakery, Continental",250,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes",3.6,Good,16,Bakery
+The Global Bakers,Ballupur,"Fast Food, Bakery",250,"Debit Card, No Alcohol Available, Delivery, Cash, Takeaway Available, Air Conditioned, Desserts and Bakes",3.4,Average,9,Bakery
+Eat Cake,Ballupur,Bakery,250,"Cash, Takeaway Available, Pure Veg, Desserts and Bakes",3.3,Average,8,Bakery
+Doon Memories Restaurant Bakers,Paltan Bazaar,Bakery,250,"Cash, Credit Card, Debit Card, Takeaway Available, Breakfast, Indoor Seating, Digital Payments Accepted, Desserts and Bakes",3.1,Average,7,Bakery
+Standard Bakers & Fast Food,Balliwala,"Bakery, Fast Food",200,"Credit Card, Cash, Delivery, Takeaway Available, Debit Card, No Alcohol Available, Indoor Seating, Free Parking, Desserts and Bakes",3.1,Average,13,Quick Bites
+New Venus Bakers & Sweet Corner,Krishna Nagar,"Bakery, Fast Food",350,"Takeaway Available, Cash, Digital Payments Accepted, Desserts and Bakes",3,Average,4,Bakery
+Pindi Bakers,Paltan Bazaar,Bakery,200,"Cash, Takeaway Available, Desserts and Bakes, Indoor Seating, Air Conditioned",0,Not rated,3,Bakery
+Standard Bakers & Fast Food,Hathibarkala Salwala,Bakery,500,"Cash, Takeaway Available, Debit Card, Delivery, Credit Card, Indoor Seating, Air Conditioned, Desserts and Bakes",3.2,Average,5,Bakery
+Doon Memories Bakers & Cafe,Rajpur,"Bakery, Chinese",300,"Cash, Breakfast, Indoor Seating, Air Conditioned, Pure Veg, Desserts and Bakes, Digital Payments Accepted",3,Average,6,Bakery
+Standards Bakery,Kaonli,Bakery,300,"Delivery, Cash, Takeaway Available, Indoor Seating, Desserts and Bakes",3.2,Average,5,Bakery
+Sip of Doon,Subhash Nagar,"Bakery, Fast Food",150,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes, Digital Payments Accepted",3.3,Average,8,Quick Bites
+All Baked,Karanpur,"Bakery, Fast Food",300,"Cash, Takeaway Available, Delivery, Indoor Seating, Digital Payments Accepted, Desserts and Bakes",0,Not rated,0,Bakery
+Katiyar Bake Shop,Dharampur,"Bakery, Sandwich",250,"Takeaway Available, Cash, Breakfast, Indoor Seating, Desserts and Bakes",3.2,Average,6,Bakery
+Bakery Plus,Chironwali,Bakery,150,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes, Digital Payments Accepted",0,Not rated,2,Quick Bites
+Merriment Bakers,Paltan Bazaar,Bakery,150,"Takeaway Available, Cash, Desserts and Bakes",0,Not rated,3,Bakery
+Anjali Bakers,Garhi Cantt,Bakery,300,"Cash, Delivery, Takeaway Available, Desserts and Bakes, Indoor Seating",3.1,Average,5,Bakery
+Bakers & Cafe,Chukkuwala,"Desserts, Bakery",250,"No Seating Available, Delivery, Debit Card, Takeaway Available, Cash, Credit Card, Digital Payments Accepted, Desserts and Bakes",0,Not rated,1,Bakery
+Bakes & Cookes,Subhash Nagar,Bakery,800,"Delivery, Cash, Takeaway Available, Indoor Seating, Air Conditioned, All Day Breakfast, Digital Payments Accepted",3.1,Average,5,Bakery
+The Sunders,Karanpur,Bakery,150,"No Seating Available, Cash, Takeaway Available, Desserts and Bakes",3.1,Average,5,Bakery
+Fros Bakers,Jogiwala,"Bakery, Desserts",250,"Cash, No Alcohol Available, Takeaway Available, Indoor Seating, Free Parking, Desserts and Bakes",3.1,Average,4,Bakery
+Gods Kitchen,Dharampur,"Bakery, Desserts",250,"No Alcohol Available, Cash, Takeaway Available, No Seating Available, Delivery, Desserts and Bakes",0,Not rated,2,Bakery
+Adrash Confectioners,Garhi Cantt,"Fast Food, Desserts, Bakery",200,"Cash, Debit Card, Takeaway Available, Delivery, Credit Card, Indoor Seating, Air Conditioned, Desserts and Bakes, Digital Payments Accepted",3,Average,4,Confectionery
+Nirmal Bakers,Paltan Bazaar,"Fast Food, Desserts, Bakery",200,"No Seating Available, Takeaway Available, Cash, Pre-Ordering Required, Digital Payments Accepted, Desserts and Bakes",0,Not rated,1,Bakery
+Sugar Free Cafe and Bakers,Malsi,Bakery,300,"Cash, Takeaway Available, Indoor Seating, Desserts and Bakes, Digital Payments Accepted",0,Not rated,1,Bakery
+Refreshing Centre,Ballupur,"Bakery, Fast Food",200,"No Alcohol Available, Dinner, Takeaway Available, Cash, Lunch, Indoor Seating, Outdoor Seating, Digital Payments Accepted, Free Parking, Desserts and Bakes",0,Not rated,2,Bakery
+Doon Memories Cakes & Cookies,Ballupur,Bakery,200,"Cash, No Seating Available, Takeaway Available, No Alcohol Available, Desserts and Bakes",0,Not rated,1,Bakery
+Pearl Bakery,Race Course,"Bakery, Desserts",250,"Delivery, Cash, Takeaway Available, Indoor Seating, Air Conditioned, Desserts and Bakes, Digital Payments Accepted",0,Not rated,0,Bakery
+Divyansh Cake Superior,Prem Nagar,"Bakery, Desserts",300,"No Seating Available, Takeaway Available, Cash, Desserts and Bakes",0,Not rated,0,Bakery
+Uttar Sweets & Bakers,Krishna Nagar,Bakery,250,"Cash, Takeaway Available, Desserts and Bakes",0,Not rated,0,Bakery
+Bhatia Dhaba,Prem Nagar,North Indian,200,"No Alcohol Available, Lunch, Takeaway Available, Cash, Dinner, Indoor Seating",3.8,Good,88,Dhaba
+Daddys Restaurant,Jakhan,North Indian,500,"Delivery, Indoor Seating",3.9,Good,79,Dhaba
+Delhi Chicken Point,Jakhan,North Indian,400,"Cash, Indoor Seating",3.6,Good,58,Dhaba
+Aaqa Dhaba,Paltan Bazaar,North Indian,350,"Delivery, Takeaway Available, Cash, Lunch, Dinner, No Alcohol Available, Indoor Seating, Digital Payments Accepted",3.4,Average,30,Dhaba
+Vishal Dhaba,Prem Nagar,"North Indian, Chinese",200,"No Alcohol Available, Lunch, Takeaway Available, Cash, Dinner, Breakfast, Indoor Seating, Digital Payments Accepted",3.2,Average,14,Quick Bites
+Bonnies Punjabi Tadkaa,Race Course,"North Indian, Chinese",500,"Lunch, Dinner, Cash, Takeaway Available, No Alcohol Available, Indoor Seating",3.7,Good,32,Dhaba
+Pehalwan Paratha Dhaba,Malsi,North Indian,400,"Dinner, Delivery, Breakfast, Lunch, Cash, Takeaway Available, Indoor Seating",3.3,Average,17,Dhaba
+Pahalwan Paratha Dhabba,Ballupur,North Indian,400,"Breakfast, Dinner, Delivery, Lunch, Cash, Takeaway Available, Indoor Seating",4,Very Good,3,Dhaba
+Hotel Shree Ram - JB Foods,Race Course,"Chinese, North Indian, South Indian",500,"No Alcohol Available, Breakfast, Dinner, Takeaway Available, Cash, Lunch, Indoor Seating",3.1,Average,16,Dhaba
+Chauhan Restaurant,Race Course,North Indian,250,"Breakfast, Dinner, Lunch, Indoor Seating, Pure Veg",3.2,Average,6,Casual Dining
+Mayur Star Dhaba Karnal  Wale,Malsi,"North Indian, Fast Food",400,"Breakfast, Dinner, Cash, Lunch, Takeaway Available, Pure Veg, Indoor Seating",3.1,Average,6,Dhaba
+Rohan Fast Food & Restaurant,Prem Nagar,"Fast Food, Chinese, North Indian",150,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Indoor Seating, Pure Veg",0,Not rated,3,Dhaba
+Punjabi Rasoi and Fast Food,Prem Nagar,"North Indian, Fast Food",150,"No Alcohol Available, Lunch, Cash, Takeaway Available, Dinner, Delivery, Indoor Seating, Pure Veg",3,Average,4,Dhaba
+Krishna Restaurant,Chukkuwala,North Indian,200,"Lunch, Cash, No Alcohol Available, Dinner, Takeaway Available, Indoor Seating, Digital Payments Accepted",0,Not rated,1,Dhaba
+Wali Restaurant,Paltan Bazaar,North Indian,350,"Lunch, Dinner, Takeaway Available, Cash, No Alcohol Available, Indoor Seating, Digital Payments Accepted",0,Not rated,2,Dhaba
+Rajadhani Dhaba,Morowala,Street Food,150,"No Alcohol Available, Lunch, Dinner, Takeaway Available, Cash, Breakfast, Pure Veg, Indoor Seating",0,Not rated,3,Dhaba
+Arora Restaurant,Chukkuwala,"Fast Food, North Indian",0,"Takeaway Available, No Alcohol Available, Lunch, Cash, Dinner, Indoor Seating",0,Not rated,3,Dhaba
+Punjabi Restaurant,Morowala,North Indian,250,"Lunch, Dinner, Takeaway Available, Cash, No Alcohol Available, Indoor Seating",0,Not rated,2,Dhaba
+Moon Light,Jakhan,"North Indian, Fast Food",350,"No Alcohol Available, Dinner, Takeaway Available, Cash, Lunch, Outdoor Seating",0,Not rated,2,Dhaba
+Ankit Ghadwaali Restaurant,Balliwala,"North Indian, Fast Food",200,"No Alcohol Available, Cash, Lunch, Takeaway Available, Breakfast, Dinner, Indoor Seating, Pure Veg",0,Not rated,2,Quick Bites
+Dhaba Shams-Ud-Din,Paltan Bazaar,North Indian,150,"Dinner, Lunch, Indoor Seating",0,Not rated,1,Dhaba
+National Hotel,Race Course,North Indian,400,"Lunch, Dinner, No Alcohol Available, Takeaway Available, Cash, Table Reservation Not Required, Indoor Seating",0,Not rated,1,Casual Dining
+Chandra Restaurant,Prem Nagar,North Indian,150,"No Alcohol Available, Cash, Lunch, Takeaway Available, Dinner, Indoor Seating, Pure Veg",0,Not rated,0,Quick Bites
+Small Chop Restaurant,Majra,North Indian,600,"Dinner, No Alcohol Available, Cash, Lunch, Takeaway Available, Breakfast, Indoor Seating, Free Parking",0,Not rated,0,Dhaba
+Rawat Restaurant,Morowala,North Indian,200,"Dinner, Lunch, Indoor Seating",0,Not rated,0,Dhaba
+Dhaba Shakeel Ahmed,Paltan Bazaar,North Indian,150,"Dinner, Lunch, Indoor Seating",0,Not rated,0,Dhaba
+Rawat Family Restaurant,Morowala,North Indian,300,"Lunch, Dinner, Takeaway Available, Breakfast, No Alcohol Available, Cash, Pure Veg, Indoor Seating",0,Not rated,0,Dhaba
+Freshen Up Eatery,Race Course,North Indian,200,"Lunch, Dinner, Takeaway Available, Cash, No Alcohol Available, Outdoor Seating",0,Not rated,0,Dhaba
+Darshan Restaurant,Race Course,North Indian,200,"Lunch, Dinner, Takeaway Available, Cash, No Alcohol Available, Indoor Seating",0,Not rated,0,Dhaba
+Ankar Restaurant,Paltan Bazaar,North Indian,350,"Dinner, Lunch, Indoor Seating",0,Not rated,0,Dhaba
+Edisons Experiments With Milk,Garhi Cantt,"Beverages, Desserts",300,"Cash, Delivery, Credit Card, Takeaway Available, Debit Card, Indoor Seating, Smoking Area",3.6,Good,24,Beverage Shop
+Gulati Juice Corner,Karanpur,Juices,200,"Cash, Takeaway Available, Outdoor Seating",3.6,Good,28,Beverage Shop
+Haathi Chai Shoppe,Rajpur,"Beverages, Fast Food",0,"Takeaway Available, Breakfast, No Alcohol Available, Cash, Lunch, Indoor Seating",3.2,Average,7,Beverage Shop
+OPress Juice & Joy,Khurbura,"Beverages, Juices",150,"No Seating Available, Delivery, Cash, Takeaway Available, Digital Payments Accepted",3.4,Average,8,Beverage Shop
+Joy Dairy and Fruit Juice,Karanpur,Beverages,150,"Cash, Credit Card, Takeaway Available, Debit Card, Outdoor Seating, Indoor Seating, Digital Payments Accepted",3.1,Average,4,Beverage Shop
+Delhi Fruit Juice,Hathibarkala Salwala,Juices,150,"Cash, Takeaway Available, No Seating Available, Digital Payments Accepted",0,Not rated,2,Beverage Shop
+Juicers & Shakers,Subhash Nagar,"Beverages, Juices",150,"Cash, Takeaway Available, Indoor Seating",0,Not rated,0,Beverage Shop
+Shreya Tea Point,Rajpur,"Beverages, Fast Food",0,"Cash, Takeaway Available, Outdoor Seating",0,Not rated,2,Beverage Shop
+Shwet Dhara Milk Bar,Chironwali,Beverages,150,"No Seating Available, Cash, Takeaway Available",0,Not rated,1,Quick Bites
+Refuel Angeethi Momos & Mocktails,Jogiwala,"BBQ, Beverages",250,"Dinner, Takeaway Available, Cash, Free Parking, Digital Payments Accepted, Indoor Seating",0,Not rated,0,Quick Bites
+Sethi Shakes Corner,Subhash Nagar,"Beverages, Juices",300,"No Seating Available, Cash, Takeaway Available",0,Not rated,0,Beverage Shop
+Pizza Hut,"Pacific Mall, Jakhan","Italian, Pizza",600,"Mall Parking, Credit Card, Debit Card, Lunch, Dinner, Takeaway Available, Delivery, Cash, Self Service, Air Conditioned, Indoor Seating, Digital Payments Accepted",3.5,Good,77,Food Court
+Andaaz-E-Lucknow,"Pacific Mall, Jakhan",North Indian,200,"Credit Card, Lunch, Cash, No Alcohol Available, Mall Parking, Takeaway Available, Dinner, Debit Card, Indoor Seating",3.6,Good,54,Food Court
+Taste Of America,"Pacific Mall, Jakhan",American,400,"Cash, Lunch, Debit Card, Credit Card, Mall Parking, Takeaway Available, Breakfast, No Alcohol Available, Dinner, Indoor Seating, Air Conditioned, Wifi, Kid Friendly, Self Service",3.6,Good,30,Casual Dining
+Doon Chowpati,Kaonli,"South Indian, Chinese",500,"Cash, Takeaway Available, Dinner, Lunch, Delivery, Outdoor Seating",3.4,Average,28,Food Court
+Vango,"Pacific Mall, Jakhan",South Indian,450,"No Alcohol Available, Debit Card, Takeaway Available, Lunch, Mall Parking, Cash, Dinner, Credit Card, Air Conditioned, Pure Veg, Indoor Seating, Self Service, Digital Payments Accepted",3.1,Average,17,Quick Bites
+Hungry Jax,Balliwala,"Fast Food, Italian",250,"Lunch, Delivery, Credit Card, Dinner, Cash, Takeaway Available, Debit Card, Air Conditioned, Indoor Seating",3.2,Average,9,Food Court
+Grill Inn,Raipur,Fast Food,300,"Dinner, Cash, Debit Card, Lunch, Credit Card, Indoor Seating, Air Conditioned",3.3,Average,7,Food Court
+Moti Mahal,"Pacific Mall, Jakhan",North Indian,700,"Credit Card, Lunch, No Alcohol Available, Mall Parking, Dinner, Delivery, Debit Card, Takeaway Available, Cash, Indoor Seating, Self Service, Air Conditioned",3.4,Average,15,Quick Bites
+Chefs Chinese,"Pacific Mall, Jakhan",Chinese,500,"No Alcohol Available, Lunch, Credit Card, Dinner, Mall Parking, Debit Card, Takeaway Available, Cash, Air Conditioned, Self Service, Indoor Seating, Digital Payments Accepted",3.1,Average,5,Quick Bites
+Tastyland.in,Chironwali,"Chinese, North Indian, Continental",400,"Dinner, Cash, Credit Card, Lunch, Takeaway Available, Debit Card, Indoor Seating, Digital Payments Accepted",0,Not rated,2,Food Court
+Full-Full Desi,"Crossroads Mall, Karanpur","North Indian, Biryani",450,"Dinner, Cash, Credit Card, Debit Card, Lunch, Mall Parking, Indoor Seating, Air Conditioned",0,Not rated,3,Food Court
+Yum Yum Cha,Hathibarkala Salwala,"North Indian, Chinese, Continental",200,"Cash, Credit Card, Dinner, Takeaway Available, Debit Card, Lunch, Indoor Seating, Digital Payments Accepted",0,Not rated,0,Food Court
+aAL-Baik Family Restaurant,Chironwali,"Fast Food, North Indian",700,"Debit Card, Lunch, Cash, Takeaway Available, Credit Card, No Alcohol Available, Dinner, Delivery, Indoor Seating, Digital Payments Accepted, Air Conditioned",0,Not rated,2,Food Court
+Bikano Chaat Cafe,Rajpur,"North Indian, South Indian, Chinese, Street Food",400,"Dinner, Credit Card, Lunch, Cash, Takeaway Available, Debit Card, Indoor Seating, Self Service",0,Not rated,0,Food Court
+The Nebula Restro Pub,Ballupur,"North Indian, Chinese, Fast Food",0,"Debit Card, Cash, Takeaway Available, Live Music, Indoor Seating, Fullbar, Outdoor Seating, Digital Payments Accepted",0,Not rated,3,Casual Dining
+Bikano,"Pacific Mall, Jakhan","North Indian, South Indian",500,"Debit Card, Takeaway Available, No Alcohol Available, Dinner, Cash, Breakfast, Lunch, Credit Card, Mall Parking, Wheelchair Accessible, Self Service, Digital Payments Accepted, Indoor Seating, Pure Veg",3.7,Good,50,Kiosk
+Flavors of India,Balliwala,"Street Food, Fast Food",250,"Cash, Dinner, Outdoor Seating, Pure Veg",3.4,Average,21,Quick Bites
+Coolz & Hotz,"Pacific Mall, Jakhan",Fast Food,200,"No Seating Available, Takeaway Available, Lunch, Mall Parking, Dinner, Cash, Self Service",0,Not rated,1,Kiosk
+Sai Chaap Corner,Chukkuwala,North Indian,250,"Cash, Dinner, Takeaway Available, Outdoor Seating, Digital Payments Accepted",0,Not rated,0,Kiosk
+Classical Point Momos,Jogiwala,Fast Food,150,"Dinner, Cash, Standing Tables, Takeaway Available, Digital Payments Accepted",0,Not rated,0,Kiosk
+Dope,Rajpur,"North Indian, Fast Food",400,"Cash, Delivery, Dinner, Takeaway Available, Outdoor Seating",3.8,Good,94,Food Truck
+Pahaadi Gaadi,Rajpur,"Fast Food, Chinese, Kebab",350,"No Seating Available, Takeaway Available, Dinner, Cash, Digital Payments Accepted",3.8,Good,15,Food Truck
+R Foods,Balliwala,Fast Food,300,"No Seating Available, Dinner, Takeaway Available, Lunch, Cash",3.2,Average,6,Food Truck
+Street Surfer,Malsi,Fast Food,250,"Cash, Lunch, Takeaway Available, Dinner, Outdoor Seating, Digital Payments Accepted",3.1,Average,5,Quick Bites
+Bhook Lagi,Ballupur,Mughlai,500,"Cash, Delivery, Takeaway Available, Outdoor Seating, Digital Payments Accepted",0,Not rated,3,Food Truck
+Semeions,Ballupur,"Chinese, Fast Food",200,"Takeaway Available, Dinner, Cash, Delivery, Outdoor Seating, Digital Payments Accepted",0,Not rated,2,Food Truck
+The Food Safari,Majra,Fast Food,150,"No Seating Available, Dinner, Lunch, Cash",0,Not rated,1,Food Truck
+Meat Mart,Ballupur,Raw Meats,200,Indoor Seating,3.1,Average,4,Quick Bites
+Jhatka Mutton Shop,Race Course,Raw Meats,0,"No Seating Available, Cash, Takeaway Available",0,Not rated,1,Butcher Shop
+Sanjay Mutton & Chicken Shop,Hathibarkala Salwala,Raw Meats,300,"No Seating Available, Takeaway Available, Cash, Halal",0,Not rated,1,Butcher Shop
+Lemon Chilli Pure Veg,Race Course,"North Indian, Chinese",200,"Dinner, Cash, Takeaway Available, Lunch, Delivery, Indoor Seating, Pure Veg",3.6,Good,18,Bhojanalya
+Bustan Bakers and Confectionners,Subhash Nagar,"Bakery, Chinese, Fast Food",200,"Cash, Takeaway Available",3.4,Average,12,Confectionery
+Deepu Mukhwas,Jakhan,Desserts,200,"Takeaway Available, Credit Card, Cash, Delivery, Debit Card",3.1,Average,5,Confectionery
+House of Candy,"Pacific Mall, Jakhan",Desserts,150,"Takeaway Available, Debit Card, Credit Card, Cash, Mall Parking, Digital Payments Accepted",0,Not rated,2,Confectionery
+Adarsh confectioners,Garhi Cantt,"Fast Food, Bakery",200,"Delivery, Cash, Takeaway Available, Indoor Seating",0,Not rated,1,Confectionery
+Sugar Threads Express,"Pacific Mall, Jakhan",Desserts,150,"Takeaway Available, Debit Card, Cash, Credit Card, Mall Parking, Digital Payments Accepted",0,Not rated,0,Confectionery
+Annapurna Andhra Mess,Majra,"South Indian, North Indian",200,"Dinner, Delivery, Breakfast, Lunch, Cash, Takeaway Available, Indoor Seating",3.7,Good,40,Mess
+Banarasi Paan Cafe,Chukkuwala,Paan,150,"Cash, Takeaway Available",3.1,Average,4,Paan Shop
+Lakshmi Restaurant,Paltan Bazaar,"South Indian, North Indian, Street Food",200,"Dinner, Takeaway Available, Lunch, Cash, Pure Veg, Indoor Seating",3.8,Good,144,Restaurant/Shop
+Nirvana,Chironwali,"North Indian, Biryani, Chinese",500,"Lunch, Cash, Credit Card, Debit Card, Serves Alcohol, Dinner, Delivery, DJ, Nightlife, Live Music, Digital Payments Accepted, Wifi, Table booking recommended, Dance Floor, Fullbar, Indoor Seating, Air Conditioned, Smoking Area, Buffet",3.6,Good,18,Quick Bites
+Bombay Palace Bar & Restaurant,Race Course,"North Indian, Chinese",400,"Cash, Lunch, Takeaway Available, Dinner, Above 18 Only, Air Conditioned, Fullbar, Indoor Seating, Nightlife, Digital Payments Accepted",0,Not rated,3,Quick Bites
+Rukkbay,Kaonli,"Bakery, Beverages, Cafe, Coffee, Fast Food, Finger Food, Modern Indian",400,"Lunch, Delivery, No Alcohol Available, Dinner, Cash, Takeaway Available, Indoor Seating, Digital Payments Accepted",3.3,Average,12,Quick Bites
+Time To Tea,Rajpur,"Tea, Cafe, Continental",500,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Credit Card, Indoor Seating, Digital Payments Accepted",0,Not rated,3,Quick Bites
+Norjin,Subhash Nagar,"Tibetan, Chinese",0,"Lunch, Cash, Breakfast, No Alcohol Available, Dinner, Takeaway Available, Indoor Seating",3.8,Good,35,Quick Bites
+Chicken Xpress,Dharampur,"North Indian, Fast Food",400,"Lunch, Cash, Breakfast, Dinner, Takeaway Available, Outdoor Seating, Indoor Seating",3.6,Good,40,Quick Bites
+The Hunger Point,Rajpur,"North Indian, Fast Food",200,"Lunch, Delivery, Credit Card, Dinner, Cash, Takeaway Available, Breakfast, Free Parking, Outdoor Seating",3.6,Good,31,Quick Bites
+Taka Tak,Ballupur,"North Indian, Chinese, South Indian",400,"Lunch, Cash, Credit Card, Debit Card, Dinner, Takeaway Available, Breakfast, Outdoor Seating, Indoor Seating, Digital Payments Accepted",3.1,Average,22,Quick Bites
+Siddharth Restaurant,Race Course,"North Indian, South Indian",600,"Credit Card, Dinner, Cash, Takeaway Available, Breakfast, Lunch, Debit Card, Air Conditioned, Indoor Seating, Pure Veg, Table booking recommended",3.1,Average,40,Restaurant/Shop
+Sagar Restaurant - Hotel Ashrey,Race Course,"North Indian, Chinese, Fast Food",600,"Dinner, Debit Card, Breakfast, Lunch, Credit Card, Cash, Wifi, Air Conditioned, Outdoor Seating",3.6,Good,32,Casual Dining
+Chuski Chai,Balliwala,Tea,200,"Breakfast, Delivery, Cash, Outdoor Seating, Digital Payments Accepted, Table booking recommended",3.7,Good,26,Quick Bites
+Doon Memories Bakers & Cafe,Subhash Nagar,"Bakery, Chinese, Fast Food",300,"Dinner, Takeaway Available, Breakfast, Lunch, Delivery, Credit Card, Debit Card, Indoor Seating",3.5,Good,24,Quick Bites
+Ladpur Restaurant,Raipur,"Chinese, North Indian",300,"Dinner, Delivery, Breakfast, Lunch, Cash, Takeaway Available, Indoor Seating",3.7,Good,45,Quick Bites
+Innovation,Morowala,Fast Food,250,"No Alcohol Available, Cash, Dinner, Takeaway Available, Lunch, Breakfast, Outdoor Seating",3.5,Good,25,Quick Bites
+Aman Bhojanalaya,Paltan Bazaar,North Indian,250,"Breakfast, Dinner, Lunch, Indoor Seating, Pure Veg",3.6,Good,45,Restaurant/Shop
+Doon Vegetarian,Dharampur,"North Indian, Chinese",200,"Lunch, Cash, Takeaway Available, No Alcohol Available, Dinner, Delivery, Breakfast, Indoor Seating",3.1,Average,22,Quick Bites
+Chill Out Cafe,Karanpur,"North Indian, Chinese",200,"Dinner, Cash, Takeaway Available, Debit Card, Lunch, Delivery, Breakfast, Indoor Seating, Digital Payments Accepted",3.3,Average,11,Quick Bites
+Mughal Zaika,Paltan Bazaar,North Indian,450,"Lunch, Delivery, Dinner, Cash, Breakfast, Air Conditioned, Outdoor Seating",3.5,Good,32,Casual Dining
+Lemon Chilli Family Restaurant,Jogiwala,"North Indian, Chinese",400,"Lunch, Delivery, Breakfast, No Alcohol Available, Dinner, Cash, Takeaway Available, Indoor Seating, Digital Payments Accepted",3.4,Average,24,Quick Bites
+New Uska Punjabi Dhaba,Race Course,"North Indian, Fast Food, Desserts, Chinese, Bakery",300,"No Alcohol Available, Lunch, Takeaway Available, Cash, Dinner, Breakfast, Indoor Seating, Pure Veg, Digital Payments Accepted, Free Parking",3.3,Average,17,Quick Bites
+Jaiswals Restaurant and Confectionery,Dharampur,North Indian,400,"No Alcohol Available, Delivery, Lunch, Cash, Takeaway Available, Breakfast, Free Parking, Digital Payments Accepted, Pure Veg, Indoor Seating",3.2,Average,10,Quick Bites
+Abhinandan,Jogiwala,"Chinese, Continental",500,"Lunch, Takeaway Available, Cash, Breakfast, Dinner, Credit Card, Free Parking, Pure Veg, Free Wifi, Air Conditioned, Desserts and Bakes, Indoor Seating",3.2,Average,9,Casual Dining
+Paapipet,Jakhan,"North Indian, Chinese",500,"Cash, Debit Card, Lunch, No Alcohol Available, Delivery, Credit Card, Breakfast, Dinner, Takeaway Available, Indoor Seating",3.4,Average,21,Quick Bites
+Indian Bites,Majra,"North Indian, Chinese",500,"Dinner, Cash, Breakfast, Lunch, Takeaway Available, Indoor Seating, Digital Payments Accepted",3.1,Average,4,Casual Dining
+Jaideep Restaurant,Hathibarkala Salwala,North Indian,350,"Delivery, Lunch, Breakfast, Dinner, Indoor Seating",3.5,Good,21,Restaurant/Shop
+Valcano - Hotel Viceroy Inn,Majra,"North Indian, Chinese, Continental",800,"Takeaway Available, Lunch, Dinner, Breakfast, Cash, Credit Card, Debit Card, Indoor Seating, Fullbar, Table Reservation Not Required, Axis Bank - Dining Delights",3,Average,9,Casual Dining
+KJ,Garhi Cantt,"Rolls, Fast Food",350,"Delivery, Lunch, Takeaway Available, No Alcohol Available, Cash, Dinner, Outdoor Seating, Free Parking, Digital Payments Accepted",3.5,Good,33,Quick Bites
+Mr Burger Hut,Subhash Nagar,Fast Food,300,"Cash, Takeaway Available, Lunch, Delivery, Indoor Seating",3.5,Good,25,Quick Bites
+K.K Kabab Corner,Jakhan,"North Indian, Fast Food",350,"Takeaway Available, Lunch, Delivery, No Alcohol Available, Cash, Dinner, Indoor Seating, Free Parking, Digital Payments Accepted",3.6,Good,44,Quick Bites
+Gagar Restaurant,Morowala,"North Indian, Chinese",200,"Dinner, Delivery, Lunch, Cash, Takeaway Available, Indoor Seating",3.6,Good,32,Quick Bites
+Burger Singh - Big Punjabi Burgers,Ballupur,"Fast Food, Burger",300,"No Alcohol Available, Dinner, Cash, Credit Card, Lunch, Takeaway Available, Debit Card, Digital Payments Accepted, Indoor Seating, Air Conditioned",3.7,Good,35,Quick Bites
